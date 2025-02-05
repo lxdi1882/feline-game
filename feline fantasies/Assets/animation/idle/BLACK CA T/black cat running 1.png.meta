@@ -1,0 +1,1209 @@
+fileFormatVersion: 2
+guid: 96d4c188f1f649144973ef5472a4e264
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6719089518197643845
+    second: black cat running_0
+  - first:
+      213: -4607351548606681269
+    second: black cat running_1
+  - first:
+      213: -2470968834260067043
+    second: black cat running_2
+  - first:
+      213: 8770381105491895653
+    second: black cat running_3
+  - first:
+      213: 8987410578924415782
+    second: black cat running_4
+  - first:
+      213: -7357329252367306949
+    second: black cat running_5
+  - first:
+      213: 8310840418874447772
+    second: black cat running_6
+  - first:
+      213: 3781401522134968365
+    second: black cat running_7
+  - first:
+      213: 6291483129769257913
+    second: black cat running_8
+  - first:
+      213: -1638144797390520789
+    second: black cat running_9
+  - first:
+      213: -5849884268344894485
+    second: black cat running_10
+  - first:
+      213: -5584262999301147524
+    second: black cat running_11
+  - first:
+      213: 5524285709277652057
+    second: black cat running_12
+  - first:
+      213: 3544515806785940416
+    second: black cat running_13
+  - first:
+      213: -3010339516517162677
+    second: black cat running_14
+  - first:
+      213: -2971330139969967207
+    second: black cat running_15
+  - first:
+      213: 6191577316497898470
+    second: black cat running_16
+  - first:
+      213: -2936127130963948751
+    second: black cat running_17
+  - first:
+      213: -3095358959193781318
+    second: black cat running_18
+  - first:
+      213: 5435627026318307897
+    second: black cat running_19
+  - first:
+      213: -7645897125520931878
+    second: black cat running_20
+  - first:
+      213: 6750589266069879214
+    second: black cat running_21
+  - first:
+      213: -6710371066393617670
+    second: black cat running_22
+  - first:
+      213: -7498941205232211761
+    second: black cat running_23
+  - first:
+      213: 2373708412694556467
+    second: black cat running_24
+  - first:
+      213: 6965747600547097630
+    second: black cat running_25
+  - first:
+      213: -6240977262031195611
+    second: black cat running_26
+  - first:
+      213: 2548061890633389416
+    second: black cat running_27
+  - first:
+      213: 3905476143968195641
+    second: black cat running_28
+  - first:
+      213: -6086301387810111177
+    second: black cat running_29
+  - first:
+      213: 8299132936156195116
+    second: black cat running_30
+  - first:
+      213: -6817973078113160934
+    second: black cat running_31
+  - first:
+      213: 6366945648084899567
+    second: black cat running_32
+  - first:
+      213: -454858148004590270
+    second: black cat running_33
+  - first:
+      213: 3550833586404574913
+    second: black cat running_34
+  - first:
+      213: 1690770745943782043
+    second: black cat running_35
+  - first:
+      213: -948698467120524904
+    second: black cat running_36
+  - first:
+      213: -907574582890079624
+    second: black cat running_37
+  - first:
+      213: 8464533619054102185
+    second: black cat running_38
+  - first:
+      213: 2029681853345115380
+    second: black cat running_39
+  - first:
+      213: 7921438956993630058
+    second: black cat running_40
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Win64
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: black cat running_0
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 511
+        width: 131
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb567c5beaff0c2a0800000000000000
+      internalID: -6719089518197643845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: black cat running_1
+      rect:
+        serializedVersion: 2
+        x: 869
+        y: 490
+        width: 13
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4fe3f56d266f00c0800000000000000
+      internalID: -4607351548606681269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: black cat running_2
+      rect:
+        serializedVersion: 2
+        x: 901
+        y: 485
+        width: 13
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1d1ededfea55bdd0800000000000000
+      internalID: -2470968834260067043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: black cat running_3
+      rect:
+        serializedVersion: 2
+        x: 933
+        y: 487
+        width: 13
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56564a1e527a6b970800000000000000
+      internalID: 8770381105491895653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: black cat running_4
+      rect:
+        serializedVersion: 2
+        x: 965
+        y: 488
+        width: 13
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62ba06fdd42b9bc70800000000000000
+      internalID: 8987410578924415782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: black cat running_5
+      rect:
+        serializedVersion: 2
+        x: 869
+        y: 457
+        width: 13
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3f6e09960485e990800000000000000
+      internalID: -7357329252367306949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: black cat running_6
+      rect:
+        serializedVersion: 2
+        x: 865
+        y: 424
+        width: 28
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9758f70459065370800000000000000
+      internalID: 8310840418874447772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: black cat running_7
+      rect:
+        serializedVersion: 2
+        x: 897
+        y: 421
+        width: 27
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d28e9ff46ac3a7430800000000000000
+      internalID: 3781401522134968365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: black cat running_8
+      rect:
+        serializedVersion: 2
+        x: 929
+        y: 422
+        width: 26
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bb6244a296df4750800000000000000
+      internalID: 6291483129769257913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: black cat running_9
+      rect:
+        serializedVersion: 2
+        x: 961
+        y: 423
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2e32ec6cf32449e0800000000000000
+      internalID: -1638144797390520789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: black cat running_10
+      rect:
+        serializedVersion: 2
+        x: 865
+        y: 394
+        width: 28
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: beb1820804901dea0800000000000000
+      internalID: -5849884268344894485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: black cat running_11
+      rect:
+        serializedVersion: 2
+        x: 863
+        y: 361
+        width: 29
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c743c4a8366b082b0800000000000000
+      internalID: -5584262999301147524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: black cat running_12
+      rect:
+        serializedVersion: 2
+        x: 895
+        y: 359
+        width: 29
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 954e24b65943aac40800000000000000
+      internalID: 5524285709277652057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: black cat running_13
+      rect:
+        serializedVersion: 2
+        x: 927
+        y: 359
+        width: 28
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cbab3cb856a03130800000000000000
+      internalID: 3544515806785940416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: black cat running_14
+      rect:
+        serializedVersion: 2
+        x: 959
+        y: 359
+        width: 29
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b416ca0c8202936d0800000000000000
+      internalID: -3010339516517162677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: black cat running_15
+      rect:
+        serializedVersion: 2
+        x: 863
+        y: 330
+        width: 29
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99bada00bf6b3c6d0800000000000000
+      internalID: -2971330139969967207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: black cat running_16
+      rect:
+        serializedVersion: 2
+        x: 863
+        y: 296
+        width: 30
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6eb3935d3c6ece550800000000000000
+      internalID: 6191577316497898470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: black cat running_17
+      rect:
+        serializedVersion: 2
+        x: 895
+        y: 294
+        width: 30
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13bc18f3ee7c047d0800000000000000
+      internalID: -2936127130963948751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: black cat running_18
+      rect:
+        serializedVersion: 2
+        x: 927
+        y: 294
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abb8ee03d631b05d0800000000000000
+      internalID: -3095358959193781318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: black cat running_19
+      rect:
+        serializedVersion: 2
+        x: 959
+        y: 296
+        width: 29
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93237333bf93f6b40800000000000000
+      internalID: 5435627026318307897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: black cat running_20
+      rect:
+        serializedVersion: 2
+        x: 863
+        y: 267
+        width: 30
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad30524f21154e590800000000000000
+      internalID: -7645897125520931878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: black cat running_21
+      rect:
+        serializedVersion: 2
+        x: 869
+        y: 232
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea9f8acdb29eead50800000000000000
+      internalID: 6750589266069879214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: black cat running_22
+      rect:
+        serializedVersion: 2
+        x: 901
+        y: 231
+        width: 13
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afa9c847119ffd2a0800000000000000
+      internalID: -6710371066393617670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: black cat running_23
+      rect:
+        serializedVersion: 2
+        x: 933
+        y: 230
+        width: 13
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc8289674b86ee790800000000000000
+      internalID: -7498941205232211761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: black cat running_24
+      rect:
+        serializedVersion: 2
+        x: 965
+        y: 232
+        width: 13
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33fe303993b11f020800000000000000
+      internalID: 2373708412694556467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: black cat running_25
+      rect:
+        serializedVersion: 2
+        x: 869
+        y: 201
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1ca3ad598e4ba060800000000000000
+      internalID: 6965747600547097630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: black cat running_26
+      rect:
+        serializedVersion: 2
+        x: 859
+        y: 168
+        width: 30
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 522375d0f389369a0800000000000000
+      internalID: -6240977262031195611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: black cat running_27
+      rect:
+        serializedVersion: 2
+        x: 891
+        y: 166
+        width: 30
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 865d9e01ac88c5320800000000000000
+      internalID: 2548061890633389416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: black cat running_28
+      rect:
+        serializedVersion: 2
+        x: 927
+        y: 166
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9349cff5cd9033630800000000000000
+      internalID: 3905476143968195641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: black cat running_29
+      rect:
+        serializedVersion: 2
+        x: 956
+        y: 168
+        width: 29
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7318c97622d198ba0800000000000000
+      internalID: -6086301387810111177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: black cat running_30
+      rect:
+        serializedVersion: 2
+        x: 859
+        y: 139
+        width: 30
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c29a55b4f617c2370800000000000000
+      internalID: 8299132936156195116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: black cat running_31
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 105
+        width: 29
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1173eecb91b161a0800000000000000
+      internalID: -6817973078113160934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: black cat running_32
+      rect:
+        serializedVersion: 2
+        x: 892
+        y: 103
+        width: 29
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe6d15a555feb5850800000000000000
+      internalID: 6366945648084899567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: black cat running_33
+      rect:
+        serializedVersion: 2
+        x: 925
+        y: 103
+        width: 28
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24d8ef0ace400b9f0800000000000000
+      internalID: -454858148004590270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: black cat running_34
+      rect:
+        serializedVersion: 2
+        x: 956
+        y: 103
+        width: 29
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c6cb2e6558174130800000000000000
+      internalID: 3550833586404574913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: black cat running_35
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 74
+        width: 29
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b92f99c0903d67710800000000000000
+      internalID: 1690770745943782043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: black cat running_36
+      rect:
+        serializedVersion: 2
+        x: 859
+        y: 40
+        width: 28
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 891d25445cb85d2f0800000000000000
+      internalID: -948698467120524904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: black cat running_37
+      rect:
+        serializedVersion: 2
+        x: 892
+        y: 37
+        width: 27
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87ad9a3b9b5a763f0800000000000000
+      internalID: -907574582890079624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: black cat running_38
+      rect:
+        serializedVersion: 2
+        x: 925
+        y: 38
+        width: 26
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a64211ca70187570800000000000000
+      internalID: 8464533619054102185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: black cat running_39
+      rect:
+        serializedVersion: 2
+        x: 959
+        y: 39
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fc21b354e0ea2c10800000000000000
+      internalID: 2029681853345115380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: black cat running_40
+      rect:
+        serializedVersion: 2
+        x: 859
+        y: 10
+        width: 28
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6fcb8503ca9eed60800000000000000
+      internalID: 7921438956993630058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      black cat running_0: -6719089518197643845
+      black cat running_1: -4607351548606681269
+      black cat running_10: -5849884268344894485
+      black cat running_11: -5584262999301147524
+      black cat running_12: 5524285709277652057
+      black cat running_13: 3544515806785940416
+      black cat running_14: -3010339516517162677
+      black cat running_15: -2971330139969967207
+      black cat running_16: 6191577316497898470
+      black cat running_17: -2936127130963948751
+      black cat running_18: -3095358959193781318
+      black cat running_19: 5435627026318307897
+      black cat running_2: -2470968834260067043
+      black cat running_20: -7645897125520931878
+      black cat running_21: 6750589266069879214
+      black cat running_22: -6710371066393617670
+      black cat running_23: -7498941205232211761
+      black cat running_24: 2373708412694556467
+      black cat running_25: 6965747600547097630
+      black cat running_26: -6240977262031195611
+      black cat running_27: 2548061890633389416
+      black cat running_28: 3905476143968195641
+      black cat running_29: -6086301387810111177
+      black cat running_3: 8770381105491895653
+      black cat running_30: 8299132936156195116
+      black cat running_31: -6817973078113160934
+      black cat running_32: 6366945648084899567
+      black cat running_33: -454858148004590270
+      black cat running_34: 3550833586404574913
+      black cat running_35: 1690770745943782043
+      black cat running_36: -948698467120524904
+      black cat running_37: -907574582890079624
+      black cat running_38: 8464533619054102185
+      black cat running_39: 2029681853345115380
+      black cat running_4: 8987410578924415782
+      black cat running_40: 7921438956993630058
+      black cat running_5: -7357329252367306949
+      black cat running_6: 8310840418874447772
+      black cat running_7: 3781401522134968365
+      black cat running_8: 6291483129769257913
+      black cat running_9: -1638144797390520789
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

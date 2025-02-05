@@ -1,0 +1,92 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 3
+  tags:
+  - Tree
+  - Collectible
+  - Collectable
+  - Squirrel
+  - Hidden
+  - Rabbit
+  - VolumeSlider
+  - Collectibles
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Interactable
+  - ICONS
+  - MINIMAP
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: tileshadow 2
+    uniqueID: 2263842717
+    locked: 0
+  - name: baseground
+    uniqueID: 4111099609
+    locked: 0
+  - name: base ground 2 for grass
+    uniqueID: 1709117377
+    locked: 0
+  - name: tile shadow
+    uniqueID: 562604695
+    locked: 0
+  - name: mountain back
+    uniqueID: 1255488853
+    locked: 0
+  - name: mountain front
+    uniqueID: 1666795425
+    locked: 0
+  - name: ground details
+    uniqueID: 2675981111
+    locked: 0
+  - name: bridge
+    uniqueID: 2920333491
+    locked: 0
+  - name: shadow
+    uniqueID: 470981559
+    locked: 0
+  - name: character
+    uniqueID: 3617408633
+    locked: 0
+  - name: trees
+    uniqueID: 2676313047
+    locked: 0
+  - name: MINIMAP
+    uniqueID: 2891384137
+    locked: 0
+  - name: UI
+    uniqueID: 2724152475
+    locked: 0
+  m_RenderingLayers:
+  - Default

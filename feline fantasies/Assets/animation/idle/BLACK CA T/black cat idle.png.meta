@@ -1,0 +1,1469 @@
+fileFormatVersion: 2
+guid: 48ba1bf210360294fa9995e8676aa219
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -785941000089873700
+    second: black cat idle_0
+  - first:
+      213: 3309568159988376913
+    second: black cat idle_1
+  - first:
+      213: 7999515594652216065
+    second: black cat idle_2
+  - first:
+      213: -983663515416560047
+    second: black cat idle_3
+  - first:
+      213: -6194524046838843651
+    second: black cat idle_4
+  - first:
+      213: 8222861814308531270
+    second: black cat idle_5
+  - first:
+      213: 7255892372771492669
+    second: black cat idle_6
+  - first:
+      213: -7018457049785184861
+    second: black cat idle_7
+  - first:
+      213: -6704656166486060910
+    second: black cat idle_8
+  - first:
+      213: 4908252396964757097
+    second: black cat idle_9
+  - first:
+      213: -6186507347530695115
+    second: black cat idle_10
+  - first:
+      213: 5395675601494629236
+    second: black cat idle_11
+  - first:
+      213: -7387651217072696976
+    second: black cat idle_12
+  - first:
+      213: 749093256726678292
+    second: black cat idle_13
+  - first:
+      213: 4690008461509129261
+    second: black cat idle_14
+  - first:
+      213: -3875742558428417866
+    second: black cat idle_15
+  - first:
+      213: 8470965512777681880
+    second: black cat idle_16
+  - first:
+      213: 8785363018238138706
+    second: black cat idle_17
+  - first:
+      213: 1448286661584801632
+    second: black cat idle_18
+  - first:
+      213: 192568813312839916
+    second: black cat idle_19
+  - first:
+      213: 2798345097204287748
+    second: black cat idle_20
+  - first:
+      213: 2432619744196227687
+    second: black cat idle_21
+  - first:
+      213: 350541362967647304
+    second: black cat idle_22
+  - first:
+      213: -2629440410395083340
+    second: black cat idle_23
+  - first:
+      213: -7851713597155401235
+    second: black cat idle_24
+  - first:
+      213: -2119192125221821972
+    second: black cat idle_25
+  - first:
+      213: 3160505960405015609
+    second: black cat idle_26
+  - first:
+      213: 1862116660296144663
+    second: black cat idle_27
+  - first:
+      213: 7774643294293026837
+    second: black cat idle_28
+  - first:
+      213: -541060775653405463
+    second: black cat idle_29
+  - first:
+      213: 1368543186525457041
+    second: black cat idle_30
+  - first:
+      213: 4592631528068585214
+    second: black cat idle_31
+  - first:
+      213: 1739283776212528902
+    second: black cat idle_32
+  - first:
+      213: -7829688124828282948
+    second: black cat idle_33
+  - first:
+      213: -2705958912544657832
+    second: black cat idle_34
+  - first:
+      213: 7074671561941636314
+    second: black cat idle_35
+  - first:
+      213: -312818579459756362
+    second: black cat idle_36
+  - first:
+      213: 6036265686554341351
+    second: black cat idle_37
+  - first:
+      213: 7423343018885321791
+    second: black cat idle_38
+  - first:
+      213: 2393200521230837999
+    second: black cat idle_39
+  - first:
+      213: -3037341833199787416
+    second: black cat idle_40
+  - first:
+      213: 3029867752407778991
+    second: black cat idle_41
+  - first:
+      213: 8344233016920586250
+    second: black cat idle_42
+  - first:
+      213: 6514872703813800266
+    second: black cat idle_43
+  - first:
+      213: 1805624297931419127
+    second: black cat idle_44
+  - first:
+      213: 4238029327507914148
+    second: black cat idle_45
+  - first:
+      213: 4923309044702255290
+    second: black cat idle_46
+  - first:
+      213: -7212481068146062808
+    second: black cat idle_47
+  - first:
+      213: 2591099077030253548
+    second: black cat idle_48
+  - first:
+      213: -8777741066204687633
+    second: black cat idle_49
+  - first:
+      213: -8410943767973147616
+    second: black cat idle_50
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Win64
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: black cat idle_0
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 511
+        width: 130
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd25a3313d6c715f0800000000000000
+      internalID: -785941000089873700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: black cat idle_1
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 485
+        width: 13
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 155ec08e4b2fded20800000000000000
+      internalID: 3309568159988376913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: black cat idle_2
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 485
+        width: 13
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10b6172dc0df30f60800000000000000
+      internalID: 7999515594652216065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: black cat idle_3
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 485
+        width: 13
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15e75119e335952f0800000000000000
+      internalID: -983663515416560047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: black cat idle_4
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 486
+        width: 13
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df63e8b0331a80aa0800000000000000
+      internalID: -6194524046838843651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: black cat idle_5
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 454
+        width: 13
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64cebf6e0497d1270800000000000000
+      internalID: 8222861814308531270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: black cat idle_6
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 454
+        width: 13
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d33d28f6bab12b460800000000000000
+      internalID: 7255892372771492669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: black cat idle_7
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 454
+        width: 13
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3adc734af7e699e90800000000000000
+      internalID: -7018457049785184861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: black cat idle_8
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 421
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29057774db644f2a0800000000000000
+      internalID: -6704656166486060910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: black cat idle_9
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 421
+        width: 26
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96e3b0dcc8d9d1440800000000000000
+      internalID: 4908252396964757097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: black cat idle_10
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 422
+        width: 28
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53eb61e485c152aa0800000000000000
+      internalID: -6186507347530695115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: black cat idle_11
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 422
+        width: 28
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47b545e3f5a41ea40800000000000000
+      internalID: 5395675601494629236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: black cat idle_12
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 390
+        width: 27
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07156e90c5ac97990800000000000000
+      internalID: -7387651217072696976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: black cat idle_13
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 390
+        width: 27
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41b85de1950556a00800000000000000
+      internalID: 749093256726678292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: black cat idle_14
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 359
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d24f3d5d8d1461140800000000000000
+      internalID: 4690008461509129261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: black cat idle_15
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 359
+        width: 25
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b0b20c7da8963ac0800000000000000
+      internalID: -3875742558428417866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: black cat idle_16
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 359
+        width: 27
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8dbc2b5b04aee8570800000000000000
+      internalID: 8470965512777681880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: black cat idle_17
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 359
+        width: 27
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25910f44e11ebe970800000000000000
+      internalID: 8785363018238138706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: black cat idle_18
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 327
+        width: 27
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06fc2bc9b09591410800000000000000
+      internalID: 1448286661584801632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: black cat idle_19
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 327
+        width: 27
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce09450c0542ca200800000000000000
+      internalID: 192568813312839916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: black cat idle_20
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 294
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40941d52a08b5d620800000000000000
+      internalID: 2798345097204287748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: black cat idle_21
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 294
+        width: 26
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 762fa6ec4c662c120800000000000000
+      internalID: 2432619744196227687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: black cat idle_22
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 294
+        width: 28
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84494ca238f5dd400800000000000000
+      internalID: 350541362967647304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: black cat idle_23
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 295
+        width: 28
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bdf75cc0e9528bd0800000000000000
+      internalID: -2629440410395083340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: black cat idle_24
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 263
+        width: 28
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de1a273651c190390800000000000000
+      internalID: -7851713597155401235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: black cat idle_25
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 263
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce129557dfd1792e0800000000000000
+      internalID: -2119192125221821972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: black cat idle_26
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 229
+        width: 13
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93c12780d6f5cdb20800000000000000
+      internalID: 3160505960405015609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: black cat idle_27
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 229
+        width: 13
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 717d9439c3197d910800000000000000
+      internalID: 1862116660296144663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: black cat idle_28
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 229
+        width: 13
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51865b362e415eb60800000000000000
+      internalID: 7774643294293026837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: black cat idle_29
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 229
+        width: 13
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ec08495714cd78f0800000000000000
+      internalID: -541060775653405463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: black cat idle_30
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 197
+        width: 13
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19a81acf6ca0ef210800000000000000
+      internalID: 1368543186525457041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: black cat idle_31
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 197
+        width: 13
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef699ceba0e4cbf30800000000000000
+      internalID: 4592631528068585214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: black cat idle_32
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 195
+        width: 13
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60f6fbc116d232810800000000000000
+      internalID: 1739283776212528902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: black cat idle_33
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 166
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbf0489422c575390800000000000000
+      internalID: -7829688124828282948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: black cat idle_34
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 166
+        width: 26
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85e29f0b4b0827ad0800000000000000
+      internalID: -2705958912544657832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: black cat idle_35
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 166
+        width: 28
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad4d6186d484e2260800000000000000
+      internalID: 7074671561941636314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: black cat idle_36
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 167
+        width: 28
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bea82cc825a8abf0800000000000000
+      internalID: -312818579459756362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: black cat idle_37
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 135
+        width: 28
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ef63f019af15c350800000000000000
+      internalID: 6036265686554341351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: black cat idle_38
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 135
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3419862523050760800000000000000
+      internalID: 7423343018885321791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: black cat idle_39
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 103
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe86e30c13b563120800000000000000
+      internalID: 2393200521230837999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: black cat idle_40
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 103
+        width: 25
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86261baf1b139d5d0800000000000000
+      internalID: -3037341833199787416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: black cat idle_41
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 103
+        width: 27
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa64daafaa04c0a20800000000000000
+      internalID: 3029867752407778991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: black cat idle_42
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 103
+        width: 27
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0833a028bbacc370800000000000000
+      internalID: 8344233016920586250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: black cat idle_43
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 71
+        width: 27
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a41d5b3f43a796a50800000000000000
+      internalID: 6514872703813800266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: black cat idle_44
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 71
+        width: 27
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fd240c7bbdde0910800000000000000
+      internalID: 1805624297931419127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: black cat idle_45
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 37
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4adfbc5283180da30800000000000000
+      internalID: 4238029327507914148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: black cat idle_46
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 37
+        width: 26
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab812f8cd7b135440800000000000000
+      internalID: 4923309044702255290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: black cat idle_47
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 38
+        width: 28
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82a8cef8eae18eb90800000000000000
+      internalID: -7212481068146062808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: black cat idle_48
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 38
+        width: 28
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce31b30e1ee65f320800000000000000
+      internalID: 2591099077030253548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: black cat idle_49
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 6
+        width: 27
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe2d28ab1033f2680800000000000000
+      internalID: -8777741066204687633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: black cat idle_50
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 6
+        width: 27
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02ccc24c433564b80800000000000000
+      internalID: -8410943767973147616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      black cat idle_0: -785941000089873700
+      black cat idle_1: 3309568159988376913
+      black cat idle_10: -6186507347530695115
+      black cat idle_11: 5395675601494629236
+      black cat idle_12: -7387651217072696976
+      black cat idle_13: 749093256726678292
+      black cat idle_14: 4690008461509129261
+      black cat idle_15: -3875742558428417866
+      black cat idle_16: 8470965512777681880
+      black cat idle_17: 8785363018238138706
+      black cat idle_18: 1448286661584801632
+      black cat idle_19: 192568813312839916
+      black cat idle_2: 7999515594652216065
+      black cat idle_20: 2798345097204287748
+      black cat idle_21: 2432619744196227687
+      black cat idle_22: 350541362967647304
+      black cat idle_23: -2629440410395083340
+      black cat idle_24: -7851713597155401235
+      black cat idle_25: -2119192125221821972
+      black cat idle_26: 3160505960405015609
+      black cat idle_27: 1862116660296144663
+      black cat idle_28: 7774643294293026837
+      black cat idle_29: -541060775653405463
+      black cat idle_3: -983663515416560047
+      black cat idle_30: 1368543186525457041
+      black cat idle_31: 4592631528068585214
+      black cat idle_32: 1739283776212528902
+      black cat idle_33: -7829688124828282948
+      black cat idle_34: -2705958912544657832
+      black cat idle_35: 7074671561941636314
+      black cat idle_36: -312818579459756362
+      black cat idle_37: 6036265686554341351
+      black cat idle_38: 7423343018885321791
+      black cat idle_39: 2393200521230837999
+      black cat idle_4: -6194524046838843651
+      black cat idle_40: -3037341833199787416
+      black cat idle_41: 3029867752407778991
+      black cat idle_42: 8344233016920586250
+      black cat idle_43: 6514872703813800266
+      black cat idle_44: 1805624297931419127
+      black cat idle_45: 4238029327507914148
+      black cat idle_46: 4923309044702255290
+      black cat idle_47: -7212481068146062808
+      black cat idle_48: 2591099077030253548
+      black cat idle_49: -8777741066204687633
+      black cat idle_5: 8222861814308531270
+      black cat idle_50: -8410943767973147616
+      black cat idle_6: 7255892372771492669
+      black cat idle_7: -7018457049785184861
+      black cat idle_8: -6704656166486060910
+      black cat idle_9: 4908252396964757097
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

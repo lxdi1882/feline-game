@@ -1,0 +1,1807 @@
+fileFormatVersion: 2
+guid: 43cc36b211a9e904999d3757dd92ee6e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4057896613372564114
+    second: running calico_0
+  - first:
+      213: 837839448875964088
+    second: running calico_1
+  - first:
+      213: -8063974905396446080
+    second: running calico_2
+  - first:
+      213: -988001532159466820
+    second: running calico_3
+  - first:
+      213: -2289892703508961365
+    second: running calico_4
+  - first:
+      213: 7468091372377015078
+    second: running calico_5
+  - first:
+      213: 5608351270872390611
+    second: running calico_6
+  - first:
+      213: -2656041326583089947
+    second: running calico_7
+  - first:
+      213: -3642298725886464330
+    second: running calico_8
+  - first:
+      213: 3165498984259942688
+    second: running calico_9
+  - first:
+      213: -2890888909863919695
+    second: running calico_10
+  - first:
+      213: -3324967497675916982
+    second: running calico_11
+  - first:
+      213: -4733003763993248815
+    second: running calico_12
+  - first:
+      213: -2096518184736899088
+    second: running calico_13
+  - first:
+      213: 7320269533725258621
+    second: running calico_14
+  - first:
+      213: 4952739940899120019
+    second: running calico_15
+  - first:
+      213: -6491016244845776660
+    second: running calico_16
+  - first:
+      213: 5543748037183211584
+    second: running calico_17
+  - first:
+      213: 6616194609168178117
+    second: running calico_18
+  - first:
+      213: -616434426577901589
+    second: running calico_19
+  - first:
+      213: 4083771369118129477
+    second: running calico_20
+  - first:
+      213: -2512585596228520332
+    second: running calico_21
+  - first:
+      213: 7694245282229893753
+    second: running calico_22
+  - first:
+      213: 497588183961481566
+    second: running calico_23
+  - first:
+      213: 8868784847715030850
+    second: running calico_24
+  - first:
+      213: 7316159158056788360
+    second: running calico_25
+  - first:
+      213: -4358562189126040875
+    second: running calico_26
+  - first:
+      213: 9197264250894214494
+    second: running calico_27
+  - first:
+      213: -2750260182037139997
+    second: running calico_28
+  - first:
+      213: 7804050595172032078
+    second: running calico_29
+  - first:
+      213: 296112283623598472
+    second: running calico_30
+  - first:
+      213: -191140655251697146
+    second: running calico_31
+  - first:
+      213: 4863405754766431629
+    second: running calico_32
+  - first:
+      213: -554829451113922124
+    second: running calico_33
+  - first:
+      213: -1802649894783883532
+    second: running calico_34
+  - first:
+      213: -5748553741333973851
+    second: running calico_35
+  - first:
+      213: 1177195314421161239
+    second: running calico_36
+  - first:
+      213: -1660074386741241617
+    second: running calico_37
+  - first:
+      213: 3901791428341153413
+    second: running calico_38
+  - first:
+      213: 5752487528987947161
+    second: running calico_39
+  - first:
+      213: -5318751000723812736
+    second: running calico_40
+  - first:
+      213: -2634547472768993168
+    second: running calico_41
+  - first:
+      213: -8961848654292152615
+    second: running calico_42
+  - first:
+      213: 704976755949098337
+    second: running calico_43
+  - first:
+      213: -4160962214985174557
+    second: running calico_44
+  - first:
+      213: -8429451865640255319
+    second: running calico_45
+  - first:
+      213: -1873878351183176936
+    second: running calico_46
+  - first:
+      213: -2016361174592276804
+    second: running calico_47
+  - first:
+      213: -4726673402236537469
+    second: running calico_48
+  - first:
+      213: -2262789525640364978
+    second: running calico_49
+  - first:
+      213: 6512139637184678676
+    second: running calico_50
+  - first:
+      213: 5825633721041632491
+    second: running calico_51
+  - first:
+      213: 192112048948676777
+    second: running calico_52
+  - first:
+      213: -4101844593425776341
+    second: running calico_53
+  - first:
+      213: -5623423758240550378
+    second: running calico_54
+  - first:
+      213: 6276970986272447098
+    second: running calico_55
+  - first:
+      213: -1711077299941366120
+    second: running calico_56
+  - first:
+      213: -4800939130106785523
+    second: running calico_57
+  - first:
+      213: 7887789497022156005
+    second: running calico_58
+  - first:
+      213: 935287793400554672
+    second: running calico_59
+  - first:
+      213: -7632497052977515305
+    second: running calico_60
+  - first:
+      213: -7663746861575450358
+    second: running calico_61
+  - first:
+      213: 5344207433572172067
+    second: running calico_62
+  - first:
+      213: -4754431598506665314
+    second: running calico_63
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Win64
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: running calico_0
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 490
+        width: 13
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 292155f587b805830800000000000000
+      internalID: 4057896613372564114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: running calico_1
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 485
+        width: 13
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b69f092a8a90ab00800000000000000
+      internalID: 837839448875964088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: running calico_2
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 485
+        width: 13
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08c3e2e5c81071090800000000000000
+      internalID: -8063974905396446080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: running calico_3
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 487
+        width: 13
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb2e71657d9e942f0800000000000000
+      internalID: -988001532159466820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: running calico_4
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 456
+        width: 13
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba7e691f7baa830e0800000000000000
+      internalID: -2289892703508961365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: running calico_5
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 456
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62301b8198df3a760800000000000000
+      internalID: 7468091372377015078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: running calico_6
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 457
+        width: 13
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3db95fb34cdd4dd40800000000000000
+      internalID: 5608351270872390611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: running calico_7
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 459
+        width: 13
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e4f14c5c78d32bd0800000000000000
+      internalID: -2656041326583089947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: running calico_8
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 424
+        width: 28
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6beeda54b94f37dc0800000000000000
+      internalID: -3642298725886464330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: running calico_9
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 421
+        width: 28
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0297cadfd8c1eeb20800000000000000
+      internalID: 3165498984259942688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: running calico_10
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 421
+        width: 27
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bfd1726adf71e7d0800000000000000
+      internalID: -2890888909863919695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: running calico_11
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 422
+        width: 26
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a49be436da75bd1d0800000000000000
+      internalID: -3324967497675916982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: running calico_12
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 391
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1db7896372ef05eb0800000000000000
+      internalID: -4733003763993248815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: running calico_13
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 391
+        width: 27
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ff3c9d91dba7e2e0800000000000000
+      internalID: -2096518184736899088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: running calico_14
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 394
+        width: 28
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d73fec14b52d69560800000000000000
+      internalID: 7320269533725258621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: running calico_15
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 395
+        width: 27
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3936e2a4cbaabb440800000000000000
+      internalID: 4952739940899120019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: running calico_16
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 363
+        width: 29
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce07daebd174be5a0800000000000000
+      internalID: -6491016244845776660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: running calico_17
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 359
+        width: 29
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0480390c7795fec40800000000000000
+      internalID: 5543748037183211584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: running calico_18
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 359
+        width: 29
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cbd25461f171db50800000000000000
+      internalID: 6616194609168178117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: running calico_19
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 359
+        width: 28
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be7a080b72cf177f0800000000000000
+      internalID: -616434426577901589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: running calico_20
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 327
+        width: 26
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54d52386c687ca830800000000000000
+      internalID: 4083771369118129477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: running calico_21
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 327
+        width: 29
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 476390566b0812dd0800000000000000
+      internalID: -2512585596228520332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: running calico_22
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 331
+        width: 29
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97ab90e715377ca60800000000000000
+      internalID: 7694245282229893753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: running calico_23
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 332
+        width: 29
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e51b47521d9c7e600800000000000000
+      internalID: 497588183961481566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: running calico_24
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 298
+        width: 29
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 247db6584d0441b70800000000000000
+      internalID: 8868784847715030850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: running calico_25
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 296
+        width: 30
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8812238ddf7388560800000000000000
+      internalID: 7316159158056788360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: running calico_26
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 296
+        width: 30
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d281b918c64383c0800000000000000
+      internalID: -4358562189126040875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: running calico_27
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 294
+        width: 29
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e55e2f36b1f33af70800000000000000
+      internalID: 9197264250894214494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: running calico_28
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 262
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ed66c99fec15d9d0800000000000000
+      internalID: -2750260182037139997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: running calico_29
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 262
+        width: 27
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4e976e2bae8d4c60800000000000000
+      internalID: 7804050595172032078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: running calico_30
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 264
+        width: 29
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 889a3079d800c1400800000000000000
+      internalID: 296112283623598472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: running calico_31
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 267
+        width: 29
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6025695369ee85df0800000000000000
+      internalID: -191140655251697146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: running calico_32
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 234
+        width: 13
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d85917b34c94e7340800000000000000
+      internalID: 4863405754766431629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: running calico_33
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 232
+        width: 13
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b10e67cd89dc48f0800000000000000
+      internalID: -554829451113922124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: running calico_34
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 231
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f6e207b873bbf6e0800000000000000
+      internalID: -1802649894783883532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: running calico_35
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 230
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a4bb8354d80930b0800000000000000
+      internalID: -5748553741333973851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: running calico_36
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 198
+        width: 13
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71dd353c6ec365010800000000000000
+      internalID: 1177195314421161239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: running calico_37
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 198
+        width: 13
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe85095042b36f8e0800000000000000
+      internalID: -1660074386741241617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: running calico_38
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 200
+        width: 13
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58e30f9a1a2f52630800000000000000
+      internalID: 3901791428341153413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: running calico_39
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 201
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 990f03cfde0f4df40800000000000000
+      internalID: 5752487528987947161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: running calico_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 170
+        width: 28
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08e8a1115200036b0800000000000000
+      internalID: -5318751000723812736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: running calico_41
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 168
+        width: 30
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07873bd2805307bd0800000000000000
+      internalID: -2634547472768993168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: running calico_42
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 168
+        width: 30
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9de8a1e712e11a380800000000000000
+      internalID: -8961848654292152615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: running calico_43
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 166
+        width: 30
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 165d049df9498c900800000000000000
+      internalID: 704976755949098337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: running calico_44
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 134
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e17cf349ea4146c0800000000000000
+      internalID: -4160962214985174557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: running calico_45
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 134
+        width: 27
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a042497032940b80800000000000000
+      internalID: -8429451865640255319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: running calico_46
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 136
+        width: 29
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81b9e6d5195aef5e0800000000000000
+      internalID: -1873878351183176936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: running calico_47
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 139
+        width: 30
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb6b981e1327404e0800000000000000
+      internalID: -2016361174592276804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: running calico_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 107
+        width: 28
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 385776a659b776eb0800000000000000
+      internalID: -4726673402236537469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: running calico_49
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 103
+        width: 29
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4c3bba4ae4f890e0800000000000000
+      internalID: -2262789525640364978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: running calico_50
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 103
+        width: 29
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41b422a4f74cf5a50800000000000000
+      internalID: 6512139637184678676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: running calico_51
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 103
+        width: 28
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bec3936f00fc8d050800000000000000
+      internalID: 5825633721041632491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: running calico_52
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 71
+        width: 26
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a888a204e48aa200800000000000000
+      internalID: 192112048948676777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: running calico_53
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 71
+        width: 29
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b21000523125317c0800000000000000
+      internalID: -4101844593425776341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: running calico_54
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 75
+        width: 29
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6127494d2e595f1b0800000000000000
+      internalID: -5623423758240550378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: running calico_55
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 76
+        width: 29
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7ad33eead74c1750800000000000000
+      internalID: 6276970986272447098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: running calico_56
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 40
+        width: 26
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 896a2c9e2480148e0800000000000000
+      internalID: -1711077299941366120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: running calico_57
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 37
+        width: 28
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0156b13c43af5db0800000000000000
+      internalID: -4800939130106785523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: running calico_58
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 37
+        width: 27
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ec001991ce077d60800000000000000
+      internalID: 7887789497022156005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: running calico_59
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 38
+        width: 26
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b42660fa4fcafc00800000000000000
+      internalID: 935287793400554672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: running calico_60
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 7
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d43f087e5ce31690800000000000000
+      internalID: -7632497052977515305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: running calico_61
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 7
+        width: 27
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a01d74b65d6e4a590800000000000000
+      internalID: -7663746861575450358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: running calico_62
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 10
+        width: 28
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 321421498507a2a40800000000000000
+      internalID: 5344207433572172067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: running calico_63
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 11
+        width: 28
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9a1e16b6add40eb0800000000000000
+      internalID: -4754431598506665314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      running calico_0: 4057896613372564114
+      running calico_1: 837839448875964088
+      running calico_10: -2890888909863919695
+      running calico_11: -3324967497675916982
+      running calico_12: -4733003763993248815
+      running calico_13: -2096518184736899088
+      running calico_14: 7320269533725258621
+      running calico_15: 4952739940899120019
+      running calico_16: -6491016244845776660
+      running calico_17: 5543748037183211584
+      running calico_18: 6616194609168178117
+      running calico_19: -616434426577901589
+      running calico_2: -8063974905396446080
+      running calico_20: 4083771369118129477
+      running calico_21: -2512585596228520332
+      running calico_22: 7694245282229893753
+      running calico_23: 497588183961481566
+      running calico_24: 8868784847715030850
+      running calico_25: 7316159158056788360
+      running calico_26: -4358562189126040875
+      running calico_27: 9197264250894214494
+      running calico_28: -2750260182037139997
+      running calico_29: 7804050595172032078
+      running calico_3: -988001532159466820
+      running calico_30: 296112283623598472
+      running calico_31: -191140655251697146
+      running calico_32: 4863405754766431629
+      running calico_33: -554829451113922124
+      running calico_34: -1802649894783883532
+      running calico_35: -5748553741333973851
+      running calico_36: 1177195314421161239
+      running calico_37: -1660074386741241617
+      running calico_38: 3901791428341153413
+      running calico_39: 5752487528987947161
+      running calico_4: -2289892703508961365
+      running calico_40: -5318751000723812736
+      running calico_41: -2634547472768993168
+      running calico_42: -8961848654292152615
+      running calico_43: 704976755949098337
+      running calico_44: -4160962214985174557
+      running calico_45: -8429451865640255319
+      running calico_46: -1873878351183176936
+      running calico_47: -2016361174592276804
+      running calico_48: -4726673402236537469
+      running calico_49: -2262789525640364978
+      running calico_5: 7468091372377015078
+      running calico_50: 6512139637184678676
+      running calico_51: 5825633721041632491
+      running calico_52: 192112048948676777
+      running calico_53: -4101844593425776341
+      running calico_54: -5623423758240550378
+      running calico_55: 6276970986272447098
+      running calico_56: -1711077299941366120
+      running calico_57: -4800939130106785523
+      running calico_58: 7887789497022156005
+      running calico_59: 935287793400554672
+      running calico_6: 5608351270872390611
+      running calico_60: -7632497052977515305
+      running calico_61: -7663746861575450358
+      running calico_62: 5344207433572172067
+      running calico_63: -4754431598506665314
+      running calico_7: -2656041326583089947
+      running calico_8: -3642298725886464330
+      running calico_9: 3165498984259942688
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

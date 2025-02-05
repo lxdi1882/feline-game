@@ -1,0 +1,1053 @@
+fileFormatVersion: 2
+guid: 6d6ee49a5f00229438c767514ebb9273
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3946104839860042650
+    second: Assets_texture_shadow_dark_source_0
+  - first:
+      213: 2474479401782943447
+    second: Assets_texture_shadow_dark_source_1
+  - first:
+      213: -6199559939577930649
+    second: Assets_texture_shadow_dark_source_2
+  - first:
+      213: 8236230878069637159
+    second: Assets_texture_shadow_dark_source_3
+  - first:
+      213: -7575170073022009557
+    second: Assets_texture_shadow_dark_source_4
+  - first:
+      213: 8040770589733368191
+    second: Assets_texture_shadow_dark_source_5
+  - first:
+      213: -2585666762609850735
+    second: Assets_texture_shadow_dark_source_6
+  - first:
+      213: 7110400631474614267
+    second: Assets_texture_shadow_dark_source_7
+  - first:
+      213: -4709163314396589525
+    second: Assets_texture_shadow_dark_source_8
+  - first:
+      213: -1697802851069014529
+    second: Assets_texture_shadow_dark_source_9
+  - first:
+      213: -6637383778108436009
+    second: Assets_texture_shadow_dark_source_10
+  - first:
+      213: -1159860302161789048
+    second: Assets_texture_shadow_dark_source_11
+  - first:
+      213: 5268149414607210614
+    second: Assets_texture_shadow_dark_source_12
+  - first:
+      213: -8107841781305220416
+    second: Assets_texture_shadow_dark_source_13
+  - first:
+      213: -4548117409902934133
+    second: Assets_texture_shadow_dark_source_14
+  - first:
+      213: -8840056736046958895
+    second: Assets_texture_shadow_dark_source_15
+  - first:
+      213: -5488894708959589530
+    second: Assets_texture_shadow_dark_source_16
+  - first:
+      213: -7216270769981108356
+    second: Assets_texture_shadow_dark_source_17
+  - first:
+      213: -8619985174619681329
+    second: Assets_texture_shadow_dark_source_18
+  - first:
+      213: 2623481011445286970
+    second: Assets_texture_shadow_dark_source_19
+  - first:
+      213: -6481630590334427396
+    second: Assets_texture_shadow_dark_source_20
+  - first:
+      213: 9070734217870310057
+    second: Assets_texture_shadow_dark_source_21
+  - first:
+      213: 8260751453839523216
+    second: Assets_texture_shadow_dark_source_22
+  - first:
+      213: 7932720608709607355
+    second: Assets_texture_shadow_dark_source_23
+  - first:
+      213: 3240625064958559543
+    second: Assets_texture_shadow_dark_source_24
+  - first:
+      213: 6689427564878710514
+    second: Assets_texture_shadow_dark_source_25
+  - first:
+      213: 8427250465165245161
+    second: Assets_texture_shadow_dark_source_26
+  - first:
+      213: 7368451586727126740
+    second: Assets_texture_shadow_dark_source_27
+  - first:
+      213: -898295290060957319
+    second: Assets_texture_shadow_dark_source_28
+  - first:
+      213: -2691904788024162601
+    second: Assets_texture_shadow_dark_source_29
+  - first:
+      213: -1582376029573859845
+    second: Assets_texture_shadow_dark_source_30
+  - first:
+      213: -8434531458963588840
+    second: Assets_texture_shadow_dark_source_31
+  - first:
+      213: 6753963308982143200
+    second: Assets_texture_shadow_dark_source_32
+  - first:
+      213: -3449527115904670765
+    second: Assets_texture_shadow_dark_source_33
+  - first:
+      213: -369190783777730775
+    second: Assets_texture_shadow_dark_source_34
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Win64
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Assets_texture_shadow_dark_source_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 70
+        width: 34
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66441b53e8e9c39c0800000000000000
+      internalID: -3946104839860042650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Assets_texture_shadow_dark_source_1
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 74
+        width: 35
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7de1b43d7ed175220800000000000000
+      internalID: 2474479401782943447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Assets_texture_shadow_dark_source_2
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 69
+        width: 37
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76c17b5e41db6f9a0800000000000000
+      internalID: -6199559939577930649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Assets_texture_shadow_dark_source_3
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 67
+        width: 37
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 720c17f9858fc4270800000000000000
+      internalID: 8236230878069637159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Assets_texture_shadow_dark_source_4
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 66
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2f6a5c14f69fd690800000000000000
+      internalID: -7575170073022009557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Assets_texture_shadow_dark_source_5
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 69
+        width: 42
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f713771ef3e869f60800000000000000
+      internalID: 8040770589733368191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Assets_texture_shadow_dark_source_6
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 70
+        width: 38
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1960b1367cddd1cd0800000000000000
+      internalID: -2585666762609850735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Assets_texture_shadow_dark_source_7
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 72
+        width: 34
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bffe1c9a3b73da260800000000000000
+      internalID: 7110400631474614267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Assets_texture_shadow_dark_source_8
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 67
+        width: 34
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2217107ae0b5aeb0800000000000000
+      internalID: -4709163314396589525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Assets_texture_shadow_dark_source_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 34
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffdc2636d413078e0800000000000000
+      internalID: -1697802851069014529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Assets_texture_shadow_dark_source_10
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 33
+        width: 22
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d118e3ce9643e3a0800000000000000
+      internalID: -6637383778108436009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Assets_texture_shadow_dark_source_11
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 31
+        width: 32
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88fb19c433957efe0800000000000000
+      internalID: -1159860302161789048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Assets_texture_shadow_dark_source_12
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 32
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67848511bf93c1940800000000000000
+      internalID: 5268149414607210614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Assets_texture_shadow_dark_source_13
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 36
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c26b3a6bd82b7f80800000000000000
+      internalID: -8107841781305220416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Assets_texture_shadow_dark_source_14
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 36
+        width: 27
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8747f90057d1e0c0800000000000000
+      internalID: -4548117409902934133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Assets_texture_shadow_dark_source_15
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 36
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d63f953c3fc15580800000000000000
+      internalID: -8840056736046958895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Assets_texture_shadow_dark_source_16
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 36
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66b41f6f75783d3b0800000000000000
+      internalID: -5488894708959589530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Assets_texture_shadow_dark_source_17
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 34
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7fcd38d7f7aadb90800000000000000
+      internalID: -7216270769981108356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Assets_texture_shadow_dark_source_18
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 34
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcd09a18729af5880800000000000000
+      internalID: -8619985174619681329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Assets_texture_shadow_dark_source_19
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 32
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a38cd22841a786420800000000000000
+      internalID: 2623481011445286970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Assets_texture_shadow_dark_source_20
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 33
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfe9fc9b15f9c06a0800000000000000
+      internalID: -6481630590334427396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Assets_texture_shadow_dark_source_21
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 35
+        width: 24
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9aaf32c56b8b1ed70800000000000000
+      internalID: 9070734217870310057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Assets_texture_shadow_dark_source_22
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 5
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09d75ef0ea514a270800000000000000
+      internalID: 8260751453839523216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Assets_texture_shadow_dark_source_23
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 4
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbf7e804d5fa61e60800000000000000
+      internalID: 7932720608709607355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Assets_texture_shadow_dark_source_24
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 3
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7350517b35309fc20800000000000000
+      internalID: 3240625064958559543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Assets_texture_shadow_dark_source_25
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 1
+        width: 28
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f64d4b9dee95dc50800000000000000
+      internalID: 6689427564878710514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Assets_texture_shadow_dark_source_26
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ea7b6906ab93f470800000000000000
+      internalID: 8427250465165245161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Assets_texture_shadow_dark_source_27
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 15
+        width: 33
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d6a88badaff14660800000000000000
+      internalID: 7368451586727126740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Assets_texture_shadow_dark_source_28
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 16
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 979928c613d9883f0800000000000000
+      internalID: -898295290060957319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Assets_texture_shadow_dark_source_29
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 15
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d685ac8bde64aad0800000000000000
+      internalID: -2691904788024162601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Assets_texture_shadow_dark_source_30
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 15
+        width: 80
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf5382882654a0ae0800000000000000
+      internalID: -1582376029573859845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Assets_texture_shadow_dark_source_31
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 15
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8193e9d735682fa80800000000000000
+      internalID: -8434531458963588840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Assets_texture_shadow_dark_source_32
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e807e178d5eabd50800000000000000
+      internalID: 6753963308982143200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Assets_texture_shadow_dark_source_33
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 17
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d3ac6d4d51d020d0800000000000000
+      internalID: -3449527115904670765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Assets_texture_shadow_dark_source_34
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 15
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92f849e20fe50eaf0800000000000000
+      internalID: -369190783777730775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Assets_texture_shadow_dark_source_0: -3946104839860042650
+      Assets_texture_shadow_dark_source_1: 2474479401782943447
+      Assets_texture_shadow_dark_source_10: -6637383778108436009
+      Assets_texture_shadow_dark_source_11: -1159860302161789048
+      Assets_texture_shadow_dark_source_12: 5268149414607210614
+      Assets_texture_shadow_dark_source_13: -8107841781305220416
+      Assets_texture_shadow_dark_source_14: -4548117409902934133
+      Assets_texture_shadow_dark_source_15: -8840056736046958895
+      Assets_texture_shadow_dark_source_16: -5488894708959589530
+      Assets_texture_shadow_dark_source_17: -7216270769981108356
+      Assets_texture_shadow_dark_source_18: -8619985174619681329
+      Assets_texture_shadow_dark_source_19: 2623481011445286970
+      Assets_texture_shadow_dark_source_2: -6199559939577930649
+      Assets_texture_shadow_dark_source_20: -6481630590334427396
+      Assets_texture_shadow_dark_source_21: 9070734217870310057
+      Assets_texture_shadow_dark_source_22: 8260751453839523216
+      Assets_texture_shadow_dark_source_23: 7932720608709607355
+      Assets_texture_shadow_dark_source_24: 3240625064958559543
+      Assets_texture_shadow_dark_source_25: 6689427564878710514
+      Assets_texture_shadow_dark_source_26: 8427250465165245161
+      Assets_texture_shadow_dark_source_27: 7368451586727126740
+      Assets_texture_shadow_dark_source_28: -898295290060957319
+      Assets_texture_shadow_dark_source_29: -2691904788024162601
+      Assets_texture_shadow_dark_source_3: 8236230878069637159
+      Assets_texture_shadow_dark_source_30: -1582376029573859845
+      Assets_texture_shadow_dark_source_31: -8434531458963588840
+      Assets_texture_shadow_dark_source_32: 6753963308982143200
+      Assets_texture_shadow_dark_source_33: -3449527115904670765
+      Assets_texture_shadow_dark_source_34: -369190783777730775
+      Assets_texture_shadow_dark_source_4: -7575170073022009557
+      Assets_texture_shadow_dark_source_5: 8040770589733368191
+      Assets_texture_shadow_dark_source_6: -2585666762609850735
+      Assets_texture_shadow_dark_source_7: 7110400631474614267
+      Assets_texture_shadow_dark_source_8: -4709163314396589525
+      Assets_texture_shadow_dark_source_9: -1697802851069014529
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

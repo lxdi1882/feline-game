@@ -1,0 +1,1105 @@
+fileFormatVersion: 2
+guid: de8a95fb122846a4ea6c344200335430
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3852788026233441970
+    second: pixel-art-brown-bird-feather-isolated-background-346624253_0
+  - first:
+      213: 9052147496893728093
+    second: pixel-art-brown-bird-feather-isolated-background-346624253_1
+  - first:
+      213: -8802996026437190433
+    second: pixel-art-brown-bird-feather-isolated-background-346624253_2
+  - first:
+      213: -3391954307087554964
+    second: pixel-art-brown-bird-feather-isolated-background-346624253_3
+  - first:
+      213: -6902895873649588853
+    second: pixel-art-brown-bird-feather-isolated-background-346624253_4
+  - first:
+      213: 2656030798604888582
+    second: pixel-art-brown-bird-feather-isolated-background-346624253_5
+  - first:
+      213: 1360217578538330900
+    second: pixel-art-brown-bird-feather-isolated-background-346624253_6
+  - first:
+      213: -6903942134743024931
+    second: pixel-art-brown-bird-feather-isolated-background-346624253_7
+  - first:
+      213: -8198345665889684908
+    second: pixel-art-brown-bird-feather-isolated-background-346624253_8
+  - first:
+      213: 5625431062559447422
+    second: pixel-art-brown-bird-feather-isolated-background-346624253_9
+  - first:
+      213: 5390722955832952331
+    second: pixel-art-brown-bird-feather-isolated-background-346624253_10
+  - first:
+      213: 1107756834209104756
+    second: pixel-art-brown-bird-feather-isolated-background-346624253_11
+  - first:
+      213: 7492385328872508260
+    second: pixel-art-brown-bird-feather-isolated-background-346624253_12
+  - first:
+      213: -4186427910407768651
+    second: pixel-art-brown-bird-feather-isolated-background-346624253_13
+  - first:
+      213: -4240640342351295209
+    second: pixel-art-brown-bird-feather-isolated-background-346624253_14
+  - first:
+      213: 5030719562847654646
+    second: pixel-art-brown-bird-feather-isolated-background-346624253_15
+  - first:
+      213: -1237560302884109680
+    second: pixel-art-brown-bird-feather-isolated-background-346624253_16
+  - first:
+      213: 5001238373243637226
+    second: pixel-art-brown-bird-feather-isolated-background-346624253_17
+  - first:
+      213: 8724933862737454939
+    second: pixel-art-brown-bird-feather-isolated-background-346624253_18
+  - first:
+      213: -9003627075321637015
+    second: pixel-art-brown-bird-feather-isolated-background-346624253_19
+  - first:
+      213: -6864789882007308157
+    second: pixel-art-brown-bird-feather-isolated-background-346624253_20
+  - first:
+      213: 933902832733374680
+    second: pixel-art-brown-bird-feather-isolated-background-346624253_21
+  - first:
+      213: -8874894906246820108
+    second: pixel-art-brown-bird-feather-isolated-background-346624253_22
+  - first:
+      213: 7310535102321551205
+    second: pixel-art-brown-bird-feather-isolated-background-346624253_23
+  - first:
+      213: -4424002188686943412
+    second: pixel-art-brown-bird-feather-isolated-background-346624253_24
+  - first:
+      213: -1531438598960712073
+    second: pixel-art-brown-bird-feather-isolated-background-346624253_25
+  - first:
+      213: 1107001409615209668
+    second: pixel-art-brown-bird-feather-isolated-background-346624253_26
+  - first:
+      213: 2658400997158023151
+    second: pixel-art-brown-bird-feather-isolated-background-346624253_27
+  - first:
+      213: -8297190788264958227
+    second: pixel-art-brown-bird-feather-isolated-background-346624253_28
+  - first:
+      213: -3695251825273897766
+    second: pixel-art-brown-bird-feather-isolated-background-346624253_29
+  - first:
+      213: 1759135382256744562
+    second: pixel-art-brown-bird-feather-isolated-background-346624253_30
+  - first:
+      213: 9152570935195702390
+    second: pixel-art-brown-bird-feather-isolated-background-346624253_31
+  - first:
+      213: -8809690503345731126
+    second: pixel-art-brown-bird-feather-isolated-background-346624253_32
+  - first:
+      213: 1491154802942203183
+    second: pixel-art-brown-bird-feather-isolated-background-346624253_33
+  - first:
+      213: 3737475001391936106
+    second: pixel-art-brown-bird-feather-isolated-background-346624253_34
+  - first:
+      213: -8132490064330970439
+    second: pixel-art-brown-bird-feather-isolated-background-346624253_35
+  - first:
+      213: -2592915443806974041
+    second: pixel-art-brown-bird-feather-isolated-background-346624253_36
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Win64
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: pixel-art-brown-bird-feather-isolated-background-346624253_0
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 540
+        width: 405
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bec5820c4ad77530800000000000000
+      internalID: 3852788026233441970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-brown-bird-feather-isolated-background-346624253_1
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 115
+        width: 405
+        height: 324
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d55cac62030bf9d70800000000000000
+      internalID: 9052147496893728093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-brown-bird-feather-isolated-background-346624253_2
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 20
+        width: 685
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdc390511c975d580800000000000000
+      internalID: -8802996026437190433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-brown-bird-feather-isolated-background-346624253_3
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 20
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c66a0bf678b5de0d0800000000000000
+      internalID: -3391954307087554964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-brown-bird-feather-isolated-background-346624253_4
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 20
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b854b99a6ccf330a0800000000000000
+      internalID: -6902895873649588853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-brown-bird-feather-isolated-background-346624253_5
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 20
+        width: 10
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60a675760fd1cd420800000000000000
+      internalID: 2656030798604888582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-brown-bird-feather-isolated-background-346624253_6
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 20
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41be4025ea670e210800000000000000
+      internalID: 1360217578538330900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-brown-bird-feather-isolated-background-346624253_7
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 27
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dda3ac405354030a0800000000000000
+      internalID: -6903942134743024931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-brown-bird-feather-isolated-background-346624253_8
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 20
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45238c6bd00a93e80800000000000000
+      internalID: -8198345665889684908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-brown-bird-feather-isolated-background-346624253_9
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 20
+        width: 10
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e79dd402fbb811e40800000000000000
+      internalID: 5625431062559447422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-brown-bird-feather-isolated-background-346624253_10
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 20
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0687f097f1bfca40800000000000000
+      internalID: 5390722955832952331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-brown-bird-feather-isolated-background-346624253_11
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 20
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4738b88b8fa8f5f00800000000000000
+      internalID: 1107756834209104756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-brown-bird-feather-isolated-background-346624253_12
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 20
+        width: 13
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46b4bcf92cc4af760800000000000000
+      internalID: 7492385328872508260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-brown-bird-feather-isolated-background-346624253_13
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 20
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b53d520ff1d6e5c0800000000000000
+      internalID: -4186427910407768651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-brown-bird-feather-isolated-background-346624253_14
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 20
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71dc5f593183625c0800000000000000
+      internalID: -4240640342351295209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-brown-bird-feather-isolated-background-346624253_15
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 20
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f2942cd9c4b0d540800000000000000
+      internalID: 5030719562847654646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-brown-bird-feather-isolated-background-346624253_16
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 20
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 092c77e167d43dee0800000000000000
+      internalID: -1237560302884109680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-brown-bird-feather-isolated-background-346624253_17
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 20
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aed4d328dc7f76540800000000000000
+      internalID: 5001238373243637226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-brown-bird-feather-isolated-background-346624253_18
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 20
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b572e391f11351970800000000000000
+      internalID: 8724933862737454939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-brown-bird-feather-isolated-background-346624253_19
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 20
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9675d55d0e0bc0380800000000000000
+      internalID: -9003627075321637015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-brown-bird-feather-isolated-background-346624253_20
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 20
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 388324939fd5bb0a0800000000000000
+      internalID: -6864789882007308157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-brown-bird-feather-isolated-background-346624253_21
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 20
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d8cdc7ada3e5fc00800000000000000
+      internalID: 933902832733374680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-brown-bird-feather-isolated-background-346624253_22
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 20
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fe0c3e9a1a06d480800000000000000
+      internalID: -8874894906246820108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-brown-bird-feather-isolated-background-346624253_23
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 20
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56766e351fc347560800000000000000
+      internalID: 7310535102321551205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-brown-bird-feather-isolated-background-346624253_24
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 20
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4b93c1e279ca92c0800000000000000
+      internalID: -4424002188686943412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-brown-bird-feather-isolated-background-346624253_25
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 20
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 776ff9945bc3fbae0800000000000000
+      internalID: -1531438598960712073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-brown-bird-feather-isolated-background-346624253_26
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 20
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c4a8f9baebdc5f00800000000000000
+      internalID: 1107001409615209668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-brown-bird-feather-isolated-background-346624253_27
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 20
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fefe5224f9984e420800000000000000
+      internalID: 2658400997158023151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-brown-bird-feather-isolated-background-346624253_28
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 18
+        width: 9
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de6e2df30f47adc80800000000000000
+      internalID: -8297190788264958227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-brown-bird-feather-isolated-background-346624253_29
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 20
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adc7fee0b04d7bcc0800000000000000
+      internalID: -3695251825273897766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-brown-bird-feather-isolated-background-346624253_30
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 20
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 278fb335f44b96810800000000000000
+      internalID: 1759135382256744562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-brown-bird-feather-isolated-background-346624253_31
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 20
+        width: 7
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67497ede5c6740f70800000000000000
+      internalID: 9152570935195702390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-brown-bird-feather-isolated-background-346624253_32
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 20
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac902f6b921bdb580800000000000000
+      internalID: -8809690503345731126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-brown-bird-feather-isolated-background-346624253_33
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 20
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f25dc7e8465a1b410800000000000000
+      internalID: 1491154802942203183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-brown-bird-feather-isolated-background-346624253_34
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 20
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a627ed636bd2ed330800000000000000
+      internalID: 3737475001391936106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-brown-bird-feather-isolated-background-346624253_35
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 20
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9baa820df57932f80800000000000000
+      internalID: -8132490064330970439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-brown-bird-feather-isolated-background-346624253_36
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 20
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7afc247442d140cd0800000000000000
+      internalID: -2592915443806974041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      pixel-art-brown-bird-feather-isolated-background-346624253_0: 3852788026233441970
+      pixel-art-brown-bird-feather-isolated-background-346624253_1: 9052147496893728093
+      pixel-art-brown-bird-feather-isolated-background-346624253_10: 5390722955832952331
+      pixel-art-brown-bird-feather-isolated-background-346624253_11: 1107756834209104756
+      pixel-art-brown-bird-feather-isolated-background-346624253_12: 7492385328872508260
+      pixel-art-brown-bird-feather-isolated-background-346624253_13: -4186427910407768651
+      pixel-art-brown-bird-feather-isolated-background-346624253_14: -4240640342351295209
+      pixel-art-brown-bird-feather-isolated-background-346624253_15: 5030719562847654646
+      pixel-art-brown-bird-feather-isolated-background-346624253_16: -1237560302884109680
+      pixel-art-brown-bird-feather-isolated-background-346624253_17: 5001238373243637226
+      pixel-art-brown-bird-feather-isolated-background-346624253_18: 8724933862737454939
+      pixel-art-brown-bird-feather-isolated-background-346624253_19: -9003627075321637015
+      pixel-art-brown-bird-feather-isolated-background-346624253_2: -8802996026437190433
+      pixel-art-brown-bird-feather-isolated-background-346624253_20: -6864789882007308157
+      pixel-art-brown-bird-feather-isolated-background-346624253_21: 933902832733374680
+      pixel-art-brown-bird-feather-isolated-background-346624253_22: -8874894906246820108
+      pixel-art-brown-bird-feather-isolated-background-346624253_23: 7310535102321551205
+      pixel-art-brown-bird-feather-isolated-background-346624253_24: -4424002188686943412
+      pixel-art-brown-bird-feather-isolated-background-346624253_25: -1531438598960712073
+      pixel-art-brown-bird-feather-isolated-background-346624253_26: 1107001409615209668
+      pixel-art-brown-bird-feather-isolated-background-346624253_27: 2658400997158023151
+      pixel-art-brown-bird-feather-isolated-background-346624253_28: -8297190788264958227
+      pixel-art-brown-bird-feather-isolated-background-346624253_29: -3695251825273897766
+      pixel-art-brown-bird-feather-isolated-background-346624253_3: -3391954307087554964
+      pixel-art-brown-bird-feather-isolated-background-346624253_30: 1759135382256744562
+      pixel-art-brown-bird-feather-isolated-background-346624253_31: 9152570935195702390
+      pixel-art-brown-bird-feather-isolated-background-346624253_32: -8809690503345731126
+      pixel-art-brown-bird-feather-isolated-background-346624253_33: 1491154802942203183
+      pixel-art-brown-bird-feather-isolated-background-346624253_34: 3737475001391936106
+      pixel-art-brown-bird-feather-isolated-background-346624253_35: -8132490064330970439
+      pixel-art-brown-bird-feather-isolated-background-346624253_36: -2592915443806974041
+      pixel-art-brown-bird-feather-isolated-background-346624253_4: -6902895873649588853
+      pixel-art-brown-bird-feather-isolated-background-346624253_5: 2656030798604888582
+      pixel-art-brown-bird-feather-isolated-background-346624253_6: 1360217578538330900
+      pixel-art-brown-bird-feather-isolated-background-346624253_7: -6903942134743024931
+      pixel-art-brown-bird-feather-isolated-background-346624253_8: -8198345665889684908
+      pixel-art-brown-bird-feather-isolated-background-346624253_9: 5625431062559447422
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

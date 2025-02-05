@@ -1,0 +1,2639 @@
+fileFormatVersion: 2
+guid: b48282a747f2a654db0d5d8b0b42f05a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1866223138761978688
+    second: boar_0
+  - first:
+      213: 3992263817337296423
+    second: boar_1
+  - first:
+      213: 5524192067769387469
+    second: boar_2
+  - first:
+      213: -980019186066030945
+    second: boar_3
+  - first:
+      213: -9192961599170110669
+    second: boar_4
+  - first:
+      213: -7427317343051097984
+    second: boar_5
+  - first:
+      213: 4654879610026203242
+    second: boar_6
+  - first:
+      213: -3190831076174409279
+    second: boar_7
+  - first:
+      213: -5659713372250981733
+    second: boar_8
+  - first:
+      213: 4017541851027124597
+    second: boar_9
+  - first:
+      213: 1777644477651725510
+    second: boar_10
+  - first:
+      213: -9182678544710420032
+    second: boar_11
+  - first:
+      213: -6770162605250722884
+    second: boar_12
+  - first:
+      213: -8624568856330042462
+    second: boar_13
+  - first:
+      213: 6980087176943050489
+    second: boar_14
+  - first:
+      213: 5984410777933825312
+    second: boar_15
+  - first:
+      213: -8658504477218043948
+    second: boar_16
+  - first:
+      213: -137540335479714882
+    second: boar_17
+  - first:
+      213: -7802852772488859447
+    second: boar_18
+  - first:
+      213: 6850201580340370826
+    second: boar_19
+  - first:
+      213: -3028924637053972543
+    second: boar_20
+  - first:
+      213: -6611171954469377377
+    second: boar_21
+  - first:
+      213: -1334411464464241045
+    second: boar_22
+  - first:
+      213: -925653387766591107
+    second: boar_23
+  - first:
+      213: -8333830683247294108
+    second: boar_24
+  - first:
+      213: -1100067695661388075
+    second: boar_25
+  - first:
+      213: -1370915890111836744
+    second: boar_26
+  - first:
+      213: 6467487838595947867
+    second: boar_27
+  - first:
+      213: 1225764052835769537
+    second: boar_28
+  - first:
+      213: -6117676817169189392
+    second: boar_29
+  - first:
+      213: 7967549114655962404
+    second: boar_30
+  - first:
+      213: -3076822765490120458
+    second: boar_31
+  - first:
+      213: -925377284763455942
+    second: boar_32
+  - first:
+      213: -4354213848352139489
+    second: boar_33
+  - first:
+      213: 771330207439049421
+    second: boar_34
+  - first:
+      213: -8918394421858766779
+    second: boar_35
+  - first:
+      213: -7446586193840567931
+    second: boar_36
+  - first:
+      213: 1677075210194995525
+    second: boar_37
+  - first:
+      213: 456656861237065084
+    second: boar_38
+  - first:
+      213: -8592652882139947760
+    second: boar_39
+  - first:
+      213: -1404263246407730336
+    second: boar_40
+  - first:
+      213: -393056056799575210
+    second: boar_41
+  - first:
+      213: -8079239444407819699
+    second: boar_42
+  - first:
+      213: -5302868744388961819
+    second: boar_43
+  - first:
+      213: 7335678432738918539
+    second: boar_44
+  - first:
+      213: -5916862615843809019
+    second: boar_45
+  - first:
+      213: -8759541413643949164
+    second: boar_46
+  - first:
+      213: 3641809885290425295
+    second: boar_47
+  - first:
+      213: -7148859107285797092
+    second: boar_48
+  - first:
+      213: 8138307601759164060
+    second: boar_49
+  - first:
+      213: -8544077427764630421
+    second: boar_50
+  - first:
+      213: 2779772062153237899
+    second: boar_51
+  - first:
+      213: 5790197499839325257
+    second: boar_52
+  - first:
+      213: -8367842751562304903
+    second: boar_53
+  - first:
+      213: 3374879339407733676
+    second: boar_54
+  - first:
+      213: 3123983532141509695
+    second: boar_55
+  - first:
+      213: 7600324544699492969
+    second: boar_56
+  - first:
+      213: -376701420866959769
+    second: boar_57
+  - first:
+      213: -5876689242753627571
+    second: boar_58
+  - first:
+      213: 4387233660304915843
+    second: boar_59
+  - first:
+      213: 4755666890337189171
+    second: boar_60
+  - first:
+      213: 3965879715315041255
+    second: boar_61
+  - first:
+      213: 8686979636367309073
+    second: boar_62
+  - first:
+      213: -7968254107630553259
+    second: boar_63
+  - first:
+      213: 2705656683874402148
+    second: boar_64
+  - first:
+      213: 5581927237201726899
+    second: boar_65
+  - first:
+      213: 5063587300255002318
+    second: boar_66
+  - first:
+      213: -1372767858218773944
+    second: boar_67
+  - first:
+      213: -2720233860879510694
+    second: boar_68
+  - first:
+      213: -5153988539566115805
+    second: boar_69
+  - first:
+      213: -3673201535996633631
+    second: boar_70
+  - first:
+      213: 1100951165289619940
+    second: boar_71
+  - first:
+      213: 3959530182564516252
+    second: boar_72
+  - first:
+      213: 1838173514447820961
+    second: boar_73
+  - first:
+      213: 1946681931615709896
+    second: boar_74
+  - first:
+      213: 1693883227432824425
+    second: boar_75
+  - first:
+      213: -5485376421567059163
+    second: boar_76
+  - first:
+      213: 5587869604322420434
+    second: boar_77
+  - first:
+      213: 7971308176460422236
+    second: boar_78
+  - first:
+      213: -3110610363744116443
+    second: boar_79
+  - first:
+      213: 3889857226113186807
+    second: boar_80
+  - first:
+      213: -4117525942050121126
+    second: boar_81
+  - first:
+      213: 4876477701478894916
+    second: boar_82
+  - first:
+      213: -8308670434227747941
+    second: boar_83
+  - first:
+      213: -7050487703509348433
+    second: boar_84
+  - first:
+      213: -3369659464472094011
+    second: boar_85
+  - first:
+      213: 1017431439648887081
+    second: boar_86
+  - first:
+      213: -6800541182561491999
+    second: boar_87
+  - first:
+      213: -4318313010591950359
+    second: boar_88
+  - first:
+      213: 6221452307610945867
+    second: boar_89
+  - first:
+      213: 2391755730394268025
+    second: boar_90
+  - first:
+      213: 8610962930902833806
+    second: boar_91
+  - first:
+      213: -2893546067004866503
+    second: boar_92
+  - first:
+      213: -845642886653320633
+    second: boar_93
+  - first:
+      213: 5378945253999854492
+    second: boar_94
+  - first:
+      213: -5260237212429566644
+    second: boar_95
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Win64
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: boar_0
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 335
+        width: 25
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cc4a7661f7d916e0800000000000000
+      internalID: -1866223138761978688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boar_1
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 336
+        width: 25
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 726d80a3ace576730800000000000000
+      internalID: 3992263817337296423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boar_2
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 335
+        width: 25
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc9cc6eca6fd9ac40800000000000000
+      internalID: 5524192067769387469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boar_3
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 335
+        width: 25
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9e777d1eb54662f0800000000000000
+      internalID: -980019186066030945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boar_4
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 336
+        width: 25
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33b98a7c12a0c6080800000000000000
+      internalID: -9192961599170110669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boar_5
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 335
+        width: 25
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08857556a3edce890800000000000000
+      internalID: -7427317343051097984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boar_6
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 335
+        width: 25
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6812dbb754799040800000000000000
+      internalID: 4654879610026203242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boar_7
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 336
+        width: 25
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c1d85eba04e7b3d0800000000000000
+      internalID: -3190831076174409279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boar_8
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 335
+        width: 25
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9ab374aca8a471b0800000000000000
+      internalID: -5659713372250981733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boar_9
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 335
+        width: 25
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 571bcb4170d21c730800000000000000
+      internalID: 4017541851027124597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boar_10
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 336
+        width: 25
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ccad5beb367ba810800000000000000
+      internalID: 1777644477651725510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boar_11
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 335
+        width: 25
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c93fe7f382909080800000000000000
+      internalID: -9182678544710420032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boar_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 287
+        width: 47
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb3c56afafc8b02a0800000000000000
+      internalID: -6770162605250722884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boar_13
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 287
+        width: 47
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a30d81f1506f4880800000000000000
+      internalID: -8624568856330042462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boar_14
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 287
+        width: 47
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fe13fa2e404ed060800000000000000
+      internalID: 6980087176943050489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boar_15
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 287
+        width: 47
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 025c3c055e5ec0350800000000000000
+      internalID: 5984410777933825312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boar_16
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 287
+        width: 47
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d70a4d7d00d6d780800000000000000
+      internalID: -8658504477218043948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boar_17
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 287
+        width: 47
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebb81792bcb571ef0800000000000000
+      internalID: -137540335479714882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boar_18
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 287
+        width: 47
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c03125aeb2b6b390800000000000000
+      internalID: -7802852772488859447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boar_19
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 287
+        width: 47
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8dd10c1b0ec01f50800000000000000
+      internalID: 6850201580340370826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boar_20
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 287
+        width: 47
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cf08fc271917f5d0800000000000000
+      internalID: -3028924637053972543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boar_21
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 287
+        width: 47
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9ae3d882266044a0800000000000000
+      internalID: -6611171954469377377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boar_22
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 287
+        width: 47
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6e6664d7d73b7de0800000000000000
+      internalID: -1334411464464241045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boar_23
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 287
+        width: 47
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d71190de52b6723f0800000000000000
+      internalID: -925653387766591107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boar_24
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 239
+        width: 47
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4694bcae529485c80800000000000000
+      internalID: -8333830683247294108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boar_25
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 239
+        width: 47
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5de683b5246cbb0f0800000000000000
+      internalID: -1100067695661388075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boar_26
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 239
+        width: 47
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bd02f8e24789fce0800000000000000
+      internalID: -1370915890111836744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boar_27
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 239
+        width: 47
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5d9ba84ce121c950800000000000000
+      internalID: 6467487838595947867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boar_28
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 239
+        width: 47
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cc18b369e9c20110800000000000000
+      internalID: 1225764052835769537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boar_29
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 239
+        width: 47
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f5fcfdf855a91ba0800000000000000
+      internalID: -6117676817169189392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boar_30
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 239
+        width: 47
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 425fb85b4bb629e60800000000000000
+      internalID: 7967549114655962404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boar_31
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 239
+        width: 47
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f8502a1ffdec45d0800000000000000
+      internalID: -3076822765490120458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boar_32
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 239
+        width: 47
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3e657a23466823f0800000000000000
+      internalID: -925377284763455942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boar_33
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 239
+        width: 47
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1752e41399b293c0800000000000000
+      internalID: -4354213848352139489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boar_34
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 239
+        width: 47
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc2deeaacb054ba00800000000000000
+      internalID: 771330207439049421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boar_35
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 239
+        width: 47
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5407846668f7b3480800000000000000
+      internalID: -8918394421858766779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boar_36
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 191
+        width: 25
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5890ec67f4968a890800000000000000
+      internalID: -7446586193840567931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boar_37
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 192
+        width: 25
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5494945a40b264710800000000000000
+      internalID: 1677075210194995525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boar_38
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 191
+        width: 25
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c75b74eeefe565600800000000000000
+      internalID: 456656861237065084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boar_39
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 191
+        width: 25
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01ddfc1cab3c0c880800000000000000
+      internalID: -8592652882139947760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boar_40
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 192
+        width: 25
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06bfaba740e038ce0800000000000000
+      internalID: -1404263246407730336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boar_41
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 191
+        width: 25
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65345ad49959b8af0800000000000000
+      internalID: -393056056799575210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boar_42
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 191
+        width: 25
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d426fbce786c0ef80800000000000000
+      internalID: -8079239444407819699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boar_43
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 192
+        width: 25
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e99c2809fc6866b0800000000000000
+      internalID: -5302868744388961819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boar_44
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 191
+        width: 25
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b80c5e12ba09dc560800000000000000
+      internalID: 7335678432738918539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boar_45
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 191
+        width: 25
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50957ddbcc413eda0800000000000000
+      internalID: -5916862615843809019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boar_46
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 192
+        width: 25
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49bed6c8e7bdf6680800000000000000
+      internalID: -8759541413643949164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boar_47
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 191
+        width: 25
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcbed38abce4a8230800000000000000
+      internalID: 3641809885290425295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boar_48
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 143
+        width: 25
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c17f9e8a4862acc90800000000000000
+      internalID: -7148859107285797092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boar_49
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 144
+        width: 25
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9657bb25a311f070800000000000000
+      internalID: 8138307601759164060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boar_50
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 143
+        width: 25
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6ce7a019d65d6980800000000000000
+      internalID: -8544077427764630421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boar_51
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 143
+        width: 25
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b85e23176fbb39620800000000000000
+      internalID: 2779772062153237899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boar_52
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 144
+        width: 25
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9442745c2f9ea5050800000000000000
+      internalID: 5790197499839325257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boar_53
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 143
+        width: 25
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9723dc82a537fdb80800000000000000
+      internalID: -8367842751562304903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boar_54
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 143
+        width: 25
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca3f339d0eaf5de20800000000000000
+      internalID: 3374879339407733676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boar_55
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 144
+        width: 25
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3cf67d887e9a5b20800000000000000
+      internalID: 3123983532141509695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boar_56
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 143
+        width: 25
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96aee78b7e6c97960800000000000000
+      internalID: 7600324544699492969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boar_57
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 143
+        width: 25
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76607d6bd00b5caf0800000000000000
+      internalID: -376701420866959769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boar_58
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 144
+        width: 25
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4a8f4e054ec17ea0800000000000000
+      internalID: -5876689242753627571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boar_59
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 143
+        width: 25
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38d7c1df4c592ec30800000000000000
+      internalID: 4387233660304915843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boar_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 95
+        width: 47
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33d72a417d58ff140800000000000000
+      internalID: 4755666890337189171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boar_61
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 95
+        width: 47
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e3c745c692a90730800000000000000
+      internalID: 3965879715315041255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boar_62
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 95
+        width: 47
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 119b9b424f95e8870800000000000000
+      internalID: 8686979636367309073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boar_63
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 95
+        width: 47
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55732a25b131b6190800000000000000
+      internalID: -7968254107630553259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boar_64
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 95
+        width: 47
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46fbe763b6c6c8520800000000000000
+      internalID: 2705656683874402148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boar_65
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 95
+        width: 47
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bd8c777f3df67d40800000000000000
+      internalID: 5581927237201726899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boar_66
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 95
+        width: 47
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecee0e052d9754640800000000000000
+      internalID: 5063587300255002318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boar_67
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 95
+        width: 47
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 842dbcbf7e2f2fce0800000000000000
+      internalID: -1372767858218773944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boar_68
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 95
+        width: 47
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a53994847b9cf3ad0800000000000000
+      internalID: -2720233860879510694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boar_69
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 95
+        width: 47
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3243ab2faba5978b0800000000000000
+      internalID: -5153988539566115805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boar_70
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 95
+        width: 47
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ed508a1aaa260dc0800000000000000
+      internalID: -3673201535996633631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boar_71
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 95
+        width: 47
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e1e322704d574f00800000000000000
+      internalID: 1100951165289619940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boar_72
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 47
+        width: 47
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c911239f8b313f630800000000000000
+      internalID: 3959530182564516252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boar_73
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 47
+        width: 47
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a891348211828910800000000000000
+      internalID: 1838173514447820961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boar_74
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 47
+        width: 47
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ca20a027e0040b10800000000000000
+      internalID: 1946681931615709896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boar_75
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 47
+        width: 47
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96e202e12d1e18710800000000000000
+      internalID: 1693883227432824425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boar_76
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 47
+        width: 47
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52b2135153700e3b0800000000000000
+      internalID: -5485376421567059163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boar_77
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 47
+        width: 47
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d627d0acc91c8d40800000000000000
+      internalID: 5587869604322420434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boar_78
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 47
+        width: 47
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5c171d7d86cf9e60800000000000000
+      internalID: 7971308176460422236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boar_79
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 47
+        width: 47
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 521226ada54e4d4d0800000000000000
+      internalID: -3110610363744116443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boar_80
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 47
+        width: 47
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fb767da98c8bf530800000000000000
+      internalID: 3889857226113186807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boar_81
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 47
+        width: 47
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5a95a6a8fb9bd6c0800000000000000
+      internalID: -4117525942050121126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boar_82
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 47
+        width: 47
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44d43cff1aabca340800000000000000
+      internalID: 4876477701478894916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boar_83
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 47
+        width: 47
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b938014e24ca1bc80800000000000000
+      internalID: -8308670434227747941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boar_84
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 0
+        width: 25
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fafc01be9c2a72e90800000000000000
+      internalID: -7050487703509348433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boar_85
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 0
+        width: 25
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ca9b1ef1909c31d0800000000000000
+      internalID: -3369659464472094011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boar_86
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 0
+        width: 25
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9211697f084ae1e00800000000000000
+      internalID: 1017431439648887081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boar_87
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 0
+        width: 25
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e3e10543df9f91a0800000000000000
+      internalID: -6800541182561491999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boar_88
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 0
+        width: 25
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e918be32354214c0800000000000000
+      internalID: -4318313010591950359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boar_89
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 0
+        width: 25
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b494f2e39e9075650800000000000000
+      internalID: 6221452307610945867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boar_90
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 0
+        width: 25
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 971c7ab2a29313120800000000000000
+      internalID: 2391755730394268025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boar_91
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 0
+        width: 25
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8a158ea929408770800000000000000
+      internalID: 8610962930902833806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boar_92
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 0
+        width: 25
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93042f6ce2f08d7d0800000000000000
+      internalID: -2893546067004866503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boar_93
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 0
+        width: 25
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7426136664ca344f0800000000000000
+      internalID: -845642886653320633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boar_94
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 0
+        width: 25
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c934feaa53ad5aa40800000000000000
+      internalID: 5378945253999854492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boar_95
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 0
+        width: 25
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4d38de0022eff6b0800000000000000
+      internalID: -5260237212429566644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      boar_0: -1866223138761978688
+      boar_1: 3992263817337296423
+      boar_10: 1777644477651725510
+      boar_11: -9182678544710420032
+      boar_12: -6770162605250722884
+      boar_13: -8624568856330042462
+      boar_14: 6980087176943050489
+      boar_15: 5984410777933825312
+      boar_16: -8658504477218043948
+      boar_17: -137540335479714882
+      boar_18: -7802852772488859447
+      boar_19: 6850201580340370826
+      boar_2: 5524192067769387469
+      boar_20: -3028924637053972543
+      boar_21: -6611171954469377377
+      boar_22: -1334411464464241045
+      boar_23: -925653387766591107
+      boar_24: -8333830683247294108
+      boar_25: -1100067695661388075
+      boar_26: -1370915890111836744
+      boar_27: 6467487838595947867
+      boar_28: 1225764052835769537
+      boar_29: -6117676817169189392
+      boar_3: -980019186066030945
+      boar_30: 7967549114655962404
+      boar_31: -3076822765490120458
+      boar_32: -925377284763455942
+      boar_33: -4354213848352139489
+      boar_34: 771330207439049421
+      boar_35: -8918394421858766779
+      boar_36: -7446586193840567931
+      boar_37: 1677075210194995525
+      boar_38: 456656861237065084
+      boar_39: -8592652882139947760
+      boar_4: -9192961599170110669
+      boar_40: -1404263246407730336
+      boar_41: -393056056799575210
+      boar_42: -8079239444407819699
+      boar_43: -5302868744388961819
+      boar_44: 7335678432738918539
+      boar_45: -5916862615843809019
+      boar_46: -8759541413643949164
+      boar_47: 3641809885290425295
+      boar_48: -7148859107285797092
+      boar_49: 8138307601759164060
+      boar_5: -7427317343051097984
+      boar_50: -8544077427764630421
+      boar_51: 2779772062153237899
+      boar_52: 5790197499839325257
+      boar_53: -8367842751562304903
+      boar_54: 3374879339407733676
+      boar_55: 3123983532141509695
+      boar_56: 7600324544699492969
+      boar_57: -376701420866959769
+      boar_58: -5876689242753627571
+      boar_59: 4387233660304915843
+      boar_6: 4654879610026203242
+      boar_60: 4755666890337189171
+      boar_61: 3965879715315041255
+      boar_62: 8686979636367309073
+      boar_63: -7968254107630553259
+      boar_64: 2705656683874402148
+      boar_65: 5581927237201726899
+      boar_66: 5063587300255002318
+      boar_67: -1372767858218773944
+      boar_68: -2720233860879510694
+      boar_69: -5153988539566115805
+      boar_7: -3190831076174409279
+      boar_70: -3673201535996633631
+      boar_71: 1100951165289619940
+      boar_72: 3959530182564516252
+      boar_73: 1838173514447820961
+      boar_74: 1946681931615709896
+      boar_75: 1693883227432824425
+      boar_76: -5485376421567059163
+      boar_77: 5587869604322420434
+      boar_78: 7971308176460422236
+      boar_79: -3110610363744116443
+      boar_8: -5659713372250981733
+      boar_80: 3889857226113186807
+      boar_81: -4117525942050121126
+      boar_82: 4876477701478894916
+      boar_83: -8308670434227747941
+      boar_84: -7050487703509348433
+      boar_85: -3369659464472094011
+      boar_86: 1017431439648887081
+      boar_87: -6800541182561491999
+      boar_88: -4318313010591950359
+      boar_89: 6221452307610945867
+      boar_9: 4017541851027124597
+      boar_90: 2391755730394268025
+      boar_91: 8610962930902833806
+      boar_92: -2893546067004866503
+      boar_93: -845642886653320633
+      boar_94: 5378945253999854492
+      boar_95: -5260237212429566644
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
