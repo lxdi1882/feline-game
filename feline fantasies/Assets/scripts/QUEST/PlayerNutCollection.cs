@@ -20,10 +20,10 @@ public class PlayerNutCollection : MonoBehaviour
         // Dynamically find the CoinManager instance in the scene
         coinManager = FindObjectOfType<CoinManager>();
 
-        // Ensure CoinManager is found
+        // Check if CoinManager is missing and log a warning instead of an error
         if (coinManager == null)
         {
-            Debug.LogError("CoinManager not found in the scene. Make sure it is present.");
+            Debug.LogWarning("CoinManager not found in the scene. Coin collection will not be tracked.");
         }
 
         UpdateNutsCollectedUI();  // Initialize the UI with the starting count
@@ -82,7 +82,7 @@ public class PlayerNutCollection : MonoBehaviour
         foodsCollected++;
         Debug.Log("Food Collected: " + foodsCollected);  // Log collected food
         UpdateFoodCollectedUI();  // Update the UI to show the new count
-        PlayCollectSound();  // Play the sound when a food is collected
+        PlayCollectSound();  // Play the sound when food is collected
     }
 
     private void UpdateFoodCollectedUI()
@@ -127,7 +127,7 @@ public class PlayerNutCollection : MonoBehaviour
         }
         else
         {
-            Debug.LogError("CoinManager is not assigned or not found.");
+            Debug.LogWarning("CoinManager is missing. Coin collection is disabled.");
         }
 
         PlayCollectSound();  // Play the sound when a coin is collected
@@ -135,9 +135,16 @@ public class PlayerNutCollection : MonoBehaviour
 
     private void UpdateCoinCollectedUI()
     {
-        if (CoinCollectedText != null && coinManager != null)
+        if (CoinCollectedText != null)
         {
-            CoinCollectedText.text = coinManager.coinCount.ToString();  // Display the coin count from CoinManager
+            if (coinManager != null)
+            {
+                CoinCollectedText.text = coinManager.coinCount.ToString();  // Display the coin count from CoinManager
+            }
+            else
+            {
+                CoinCollectedText.text = "Coins: N/A";  // Display a placeholder if CoinManager is missing
+            }
         }
     }
 }
