@@ -1,4 +1,4 @@
-using UnityEngine;
+﻿using UnityEngine;
 using TMPro;
 using UnityEngine.UI;
 using System.Collections;
@@ -6,7 +6,7 @@ using System.Collections;
 public class SimpleNPCDialogue : MonoBehaviour
 {
     public GameObject player;
-    public MonoBehaviour playerMovementScript;
+    public PLAYERCONTROL2 playerMovementScript;
     public GameObject interactPrompt;
     public GameObject dialoguePanel;
     public TextMeshProUGUI dialogueText;
@@ -22,18 +22,17 @@ public class SimpleNPCDialogue : MonoBehaviour
 
     public float typewriterSpeed = 0.05f;
 
-    public GameObject[] encyclopediaObjects; // Array of GameObjects to activate
-    public TextMeshProUGUI messageText; // TextMeshPro message to show after quest completion
+    public GameObject[] encyclopediaObjects; // Objects to activate after dialogue
+    public TextMeshProUGUI messageText; // Message to display
     public float fadeInTime = 1f;
     public float fadeOutTime = 1f;
     public float messageDisplayTime = 2f;
 
-    public string[] fadeInMessages; // Array of messages to fade in
+    public string[] fadeInMessages; // Messages to fade in
 
     private bool isPlayerNearby = false;
     private bool isTalking = false;
     private int currentDialogueIndex = 0;
-
     private Coroutine currentTypewriterCoroutine;
 
     void Start()
@@ -63,19 +62,10 @@ public class SimpleNPCDialogue : MonoBehaviour
 
     private void OnTriggerExit2D(Collider2D other)
     {
-        if (other.CompareTag("Player"))
+        if (other.CompareTag("Player") && !isTalking) // Prevents dialogue from closing mid-interaction
         {
             isPlayerNearby = false;
             interactPrompt.SetActive(false);
-            dialoguePanel.SetActive(false);
-            isTalking = false;
-            currentDialogueIndex = 0;
-
-            if (currentTypewriterCoroutine != null)
-            {
-                StopCoroutine(currentTypewriterCoroutine);
-                currentTypewriterCoroutine = null;
-            }
         }
     }
 
@@ -83,7 +73,11 @@ public class SimpleNPCDialogue : MonoBehaviour
     {
         if (dialogue.Length == 0) return;
 
-        if (playerMovementScript) playerMovementScript.enabled = false;
+        if (playerMovementScript)
+        {
+            playerMovementScript.canMove = false; // ✅ Disable player movement
+            player.GetComponent<Rigidbody2D>().linearVelocity = Vector2.zero; // ✅ Stop movement instantly
+        }
         if (npcMovement) npcMovement.enabled = false;
 
         isTalking = true;
@@ -214,7 +208,11 @@ public class SimpleNPCDialogue : MonoBehaviour
         dialoguePanel.SetActive(false);
         isTalking = false;
 
-        if (playerMovementScript) playerMovementScript.enabled = true;
+        if (playerMovementScript)
+        {
+            playerMovementScript.canMove = true; // ✅ Re-enable movement
+        }
+
         if (npcMovement) npcMovement.enabled = true;
     }
 

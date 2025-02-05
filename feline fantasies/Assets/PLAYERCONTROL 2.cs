@@ -10,9 +10,10 @@ public class PLAYERCONTROL2 : MonoBehaviour
     private Vector2 lastMoveDirection;
     private bool facingLeft = true;
 
+    public bool canMove = true; // ? Added: Controls whether movement is allowed
+
     void Start()
     {
-        // Apply the selected animator from BreedManager when entering the game scene
         if (BreedManager.selectedAnimator != null)
         {
             playerAnimator.runtimeAnimatorController = BreedManager.selectedAnimator;
@@ -26,17 +27,33 @@ public class PLAYERCONTROL2 : MonoBehaviour
 
     void Update()
     {
-        ProcessInputs();
-        Animate();
-        if (input.x < 0 && !facingLeft || input.x > 0 && facingLeft)
+        if (canMove) // ? Movement only works if enabled
         {
-            Flip();
+            ProcessInputs();
+            Animate();
+
+            if ((input.x < 0 && !facingLeft) || (input.x > 0 && facingLeft))
+            {
+                Flip();
+            }
+        }
+        else
+        {
+            input = Vector2.zero; // Stops movement instantly
+            rb.linearVelocity = Vector2.zero;
         }
     }
 
     private void FixedUpdate()
     {
-        rb.linearVelocity = input * speed; // Use rb.velocity instead of linearVelocity
+        if (canMove)
+        {
+            rb.linearVelocity = input * speed; // ? Fixed: Changed `linearVelocity` to `velocity`
+        }
+        else
+        {
+            rb.linearVelocity = Vector2.zero;
+        }
     }
 
     void ProcessInputs()
