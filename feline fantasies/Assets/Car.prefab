@@ -156,6 +156,7 @@ MonoBehaviour:
   speed: 10
   rb: {fileID: 2041701720968065753}
   playerAnimator: {fileID: 0}
+  canMove: 1
 --- !u!61 &4234302136558471159
 BoxCollider2D:
   m_ObjectHideFlags: 0
