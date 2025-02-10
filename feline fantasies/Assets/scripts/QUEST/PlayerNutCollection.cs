@@ -11,9 +11,13 @@ public class PlayerNutCollection : MonoBehaviour
     public AudioSource collectSound;  // Reference to the AudioSource for the nut collection sound
     public int foodsCollected = 0;
     public int woodsCollected = 0;
+    public int ratkilled = 0;
     public TextMeshProUGUI foodCollectedText;
     public TextMeshProUGUI woodCollectedText;
     public TextMeshProUGUI CoinCollectedText;
+    public TextMeshProUGUI ratkilledtext;
+
+
 
     void Start()
     {
@@ -28,6 +32,7 @@ public class PlayerNutCollection : MonoBehaviour
 
         UpdateNutsCollectedUI();  // Initialize the UI with the starting count
         UpdateCoinCollectedUI();  // Initialize the coin UI
+        UpdateRatKilledUI();
     }
 
     private void OnTriggerEnter2D(Collider2D other)
@@ -146,5 +151,25 @@ public class PlayerNutCollection : MonoBehaviour
                 CoinCollectedText.text = "Coins: N/A";  // Display a placeholder if CoinManager is missing
             }
         }
+    }
+
+
+    public void UpdateRatKilledUI()
+    {
+        if (ratkilledtext != null)  // Also, your UI variable is ratkilledtext, not ratKilledText
+        {
+            ratkilledtext.text = ratkilled + "/5 killed rats";
+        }
+        if (ratkilled >= 5)
+        {
+            ratkilledtext.text = "Return to quest giver";
+        }
+    }
+
+    public void KillRat()
+    {
+        ratkilled++;
+        Debug.Log("Rat killed: " + ratkilled);
+        UpdateRatKilledUI();
     }
 }

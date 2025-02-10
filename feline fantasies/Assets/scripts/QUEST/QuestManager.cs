@@ -84,6 +84,24 @@ public class QuestManager : MonoBehaviour
             Debug.Log("Quest Started: bunnyQuest");
         }
     }
+    public void CompleteRatQuest()
+    {
+        // Find the "Fetch Nuts" quest and mark it as completed
+        Quest ratQuest = quests.Find(q => q.questName == "ratQuest");
+        if (ratQuest != null && ratQuest.isActive)
+        {
+            Debug.Log("rat Quest Completed!");
+        }
+    }
+    public void StartRatQuest()
+    {
+        Quest ratQuest = quests.Find(q => q.questName == "ratQuest");
+        if (ratQuest != null && !ratQuest.isActive)
+        {
+            ratQuest.StartQuest();
+            Debug.Log("Quest Started: ratQuest");
+        }
+    }
 }
 
    

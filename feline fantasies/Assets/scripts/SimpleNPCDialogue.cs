@@ -22,7 +22,8 @@ public class SimpleNPCDialogue : MonoBehaviour
 
     public float typewriterSpeed = 0.05f;
 
-    public GameObject[] encyclopediaObjects; // Objects to activate after dialogue
+    public GameObject[] encyclopediaObjects;
+    public GameObject[] objectstoturnoff;
     public TextMeshProUGUI messageText; // Message to display
     public float fadeInTime = 1f;
     public float fadeOutTime = 1f;
@@ -147,8 +148,17 @@ public class SimpleNPCDialogue : MonoBehaviour
         dialogueAnimator.SetBool("IsOpen", false);
         StartCoroutine(WaitForClosingAnimation());
         ActivateEncyclopedia();
+        turnoffobjects();
     }
+    private void turnoffobjects()
+    {
+        // Activate multiple GameObjects
+        foreach (GameObject obj in objectstoturnoff)
+        {
+            obj.SetActive(false);
+        }
 
+    }
     private void ActivateEncyclopedia()
     {
         // Activate multiple GameObjects

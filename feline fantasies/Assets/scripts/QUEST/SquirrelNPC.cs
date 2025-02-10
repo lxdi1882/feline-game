@@ -302,7 +302,7 @@ public class SquirrelNPC : MonoBehaviour
         messageText.gameObject.SetActive(false); // Hide the message after reset
     }
 
-    public void EnableGameObjects()
+    private void EnableGameObjects()
     {
         foreach (GameObject obj in objectsToEnable)
         {
@@ -313,7 +313,7 @@ public class SquirrelNPC : MonoBehaviour
         }
     }
 
-    public void DisableGameObjects()
+    private void DisableGameObjects()
     {
         foreach (GameObject obj in objectsToDisable)
         {

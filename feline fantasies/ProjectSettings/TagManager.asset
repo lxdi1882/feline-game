@@ -12,6 +12,7 @@ TagManager:
   - Rabbit
   - VolumeSlider
   - Collectibles
+  - GoalZone
   layers:
   - Default
   - TransparentFX
@@ -81,6 +82,9 @@ TagManager:
     locked: 0
   - name: trees
     uniqueID: 2676313047
+    locked: 0
+  - name: 'minimap below '
+    uniqueID: 711839917
     locked: 0
   - name: MINIMAP
     uniqueID: 2891384137
