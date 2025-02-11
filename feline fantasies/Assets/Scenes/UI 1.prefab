@@ -4112,8 +4112,9 @@ MonoBehaviour:
   loadingText: {fileID: 2521009388327485587}
   gameplayTips:
   - '"Use WASD to move"'
-  - '''Use E to Interect"'
+  - '''Use E to Interact"'
   - '"Use ESC to pause to game"'
+  - '"Do you know that cats have 9 lives"'
   tipChangeInterval: 10
   uiElements:
   - {fileID: 8459367352105187588}

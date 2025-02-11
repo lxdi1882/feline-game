@@ -733,8 +733,8 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 0.95
-  m_fontSizeBase: 0.95
+  m_fontSize: 0.9
+  m_fontSizeBase: 0.9
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
@@ -971,9 +971,9 @@ MonoBehaviour:
 
     Game Credits
 
-    
 
     Programming & Development
+
 
     Latrell
     Desmonte
@@ -981,11 +981,11 @@ MonoBehaviour:
 '
   - "Development Team\r\n\r\nMa Nin\u0303a Fatima V. Bolocon\r\nDaniel Angelo M.
     Bonifacio\r\nMaria Althea O. Capate\r\nTroy M. Delos Reyes\r\nLatrell Desmonte\r\nIniego
-    Luis M. Selda\r\n"
+    Luis M. Selda\r\nBrion Marcus C. SIanson"
   - "Special Thanks\r\n\r\nMr Mike Kagakit\r\nMrs Luzette Mora \r\nand other Teachers
-    \r\n"
-  - "Copyright & Legal\r\n\r\nFeline Fantasies \xA9 2025 | Arellano University Andres
-    Bonifacio Campus. \r\nAll rights reserved.\r\n"
+    \r\n\nStrandify References\nMusic & Audio"
+  - "Copyright & Legal\r\n\r\nFeline Fantasies \xA9 2025  Arellano University Andres
+    Bonifacio Campus. \r\nAll rights reserved.\r"
 --- !u!4 &934431549
 Transform:
   m_ObjectHideFlags: 0

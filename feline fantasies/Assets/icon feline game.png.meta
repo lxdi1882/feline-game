@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      icon feline game_0: 7114757240835058835
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
