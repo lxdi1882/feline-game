@@ -253,7 +253,7 @@ MonoBehaviour:
   loadingText: {fileID: 1919300144}
   gameplayTips:
   - '"Use WASD to move"'
-  - '''Use E to Interect"'
+  - '''Use E to Interact"'
   - '"Use ESC to pause to game"'
   tipChangeInterval: 10
   uiElements:
@@ -5686,7 +5686,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 1687371819449099532, guid: 54b13de39a50dcb4b85ab9b2223f14a5, type: 3}
       propertyPath: m_SortingLayer
-      value: 7
+      value: 9
       objectReference: {fileID: 0}
     - target: {fileID: 1687371819449099532, guid: 54b13de39a50dcb4b85ab9b2223f14a5, type: 3}
       propertyPath: m_SortingLayerID
